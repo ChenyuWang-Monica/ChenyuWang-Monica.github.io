@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a final-year undergraduate student at [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). I'm fortunate to collaborate with [Prof. Mengdi Wang](https://mwang.princeton.edu/) at Princeton University. In Spring 2021, I was lucky to work with [Prof. Cyrus Shahabi](https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus). In Fall 2020, I was a research assistant in Tsinghua Universal Machine Learning Group under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
+I am a final-year undergraduate student at [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). I'm fortunate to collaborate with [Prof. Mengdi Wang](https://mwang.princeton.edu/) at Princeton University as a research intern. In Spring 2021, I was lucky to work with [Prof. Cyrus Shahabi](https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus). In Fall 2020, I was a research assistant in Tsinghua Universal Machine Learning (THUML) Group under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
 
 ## Research Interests
 
