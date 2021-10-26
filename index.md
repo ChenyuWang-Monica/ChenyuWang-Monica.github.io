@@ -87,3 +87,6 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 - **Jane Street Asia Limited**, *Quantitative Trading intern*, Jun. 2021 - Sept. 2021
 - **WizardQuant Capital Management**, *Quantitative Research intern*, Jun. 2020 - Aug. 2020
 - **Techsharpe Quant Capital Management**, *Data Analyst Intern*, Jan. 2020 - Feb. 2020
+
+## Miscellaneous
+I enjoy (and perhaps good at) doing sports. I'm an active member in the track team and soccer team in my school, getting 1st place in 4\*400m relay, 3rd place in 1500m, women's soccer champion etc. I'm also a fan of literature and classical music. I enjoy travelling and tasting local delicacies. 
