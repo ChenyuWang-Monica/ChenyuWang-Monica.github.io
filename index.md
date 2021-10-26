@@ -8,12 +8,12 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 
 ## Publications & Preprints
 
-<table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
+<table frame=void rules=none>
     <tr>
-        <td>
+        <td width="360px">
             <!--左侧内容-->
             <br>
-            <img src="1.jpg" width="360px">
+            <img src="1.jpg">
         </td>
         <td>
             <!--右侧内容-->
@@ -29,10 +29,10 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 
 <table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
     <tr>
-        <td>
+        <td width="360px">
             <!--左侧内容-->
             <br>
-            <img src="2.jpg" width="360px">
+            <img src="2.jpg">
         </td>
         <td>
             <!--右侧内容-->
@@ -50,10 +50,10 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 
 <table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
     <tr>
-        <td>
+        <td width="360px">
             <!--左侧内容-->
             <br>
-            <img src="3.jpg" width="360px">
+            <img src="3.jpg">
         </td>
         <td>
             <!--右侧内容-->
@@ -69,7 +69,8 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
     </tr>
 </table>
 
-  
+
+
 ## Selected Awards
 - 
   
