@@ -20,7 +20,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 
 ## Publications
 
-<img src="照片.jpeg" alt="西安科技大学高新学院" align="left" hspace="20" height="300"/> 
+<img src="照片.jpeg" alt="" align="left" hspace="20" height="300"/> 
   
   **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
@@ -31,16 +31,6 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
   [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 
-
-<div class="4u 12u$(xsmall) work-item">
-    <img src="照片.jpeg" width="100%" alt="" />
-</div>
-<div class="8u$ 12u$(xsmall) work-item">
-    <h3>Stanza: A Python Natural Language Processing Toolkit for Many Human Languages. <a href="https://arxiv.org/pdf/2003.07082.pdf" style="color:rgba(0,0,255,0.5);font-size:10pt">[PDF]</a><a href="https://stanfordnlp.github.io/stanza/" style="color:rgba(0,0,255,0.5);font-size:10pt">[DOC]</a><a href="http://stanza.run" style="color:rgba(0,0,255,0.5);font-size:10pt">[DEMO]</a></h3>
-    <h4>Peng Qi*, Yuhao Zhang*, <b style="color:rgba(255,0,0,0.5)">Yuhui Zhang</b>, Jason Bolton, Christopher D. Manning.</h4>
-    <h4><i>ACL: System Demonstrations (2020)</i>.</h4>
-    <p>The Stanford NLP Group's official Python NLP library. It contains support for running various accurate natural language processing tools on 60+ languages and for accessing the Java Stanford CoreNLP software from Python. </p>
-</div>
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
