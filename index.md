@@ -84,4 +84,6 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 - <i>2016</i> &nbsp;&nbsp; Silver medalist of 15th China Girl’s Mathematical Olympiad <font size="2" color="#A8A8A8">(50 in China)</font>
   
 ## Internship Experience
-- 
+- **Jane Street Asia Limited**, *Quantitative Trading intern*, Jun. 2021 - Sept. 2021
+- **WizardQuant Capital Management**, *Quantitative Research intern*, Jun. 2020 - Aug. 2020
+- **Techsharpe Quant Capital Management**, *Data Analyst Intern*, Jan. 2020 - Feb. 2020
