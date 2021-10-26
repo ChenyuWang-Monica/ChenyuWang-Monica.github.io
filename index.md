@@ -77,11 +77,11 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 
 ## Selected Awards
 - <i>2021</i> Meritorious Winner in MCM/ICM Mathematical Contest in Modelling
-- <i>2020</i> Tang Lixin Scholarship <font size="20" color="#8F0000">(50 in Tsinghua)</font>
-- <i>2019</i> National Scholarship <font size="20" color="#8F0000">(0.2% in China)</font>
+- <i>2020</i> Tang Lixin Scholarship <font size="2" color="#A8A8A8">(50 in Tsinghua)</font>
+- <i>2019</i> National Scholarship <font size="2" color="#A8A8A8">(0.2% in China)</font>
 - <i>2019</i> Athletics Excellence Scholarship of Tsinghua
-- <i>2018</i> Gold medalist of 50th International Chemistry Olympiad <font size="20" color="#8F0000">(4 in China, 6th place in the world)</font>
-- <i>2016</i> Silver medalist of 15th China Girl’s Mathematical Olympiad <font size="20" color="#8F0000">(50 in China)</font>
+- <i>2018</i> Gold medalist of 50th International Chemistry Olympiad <font size="2" color="#A8A8A8">(4 in China, 6th place in the world)</font>
+- <i>2016</i> Silver medalist of 15th China Girl’s Mathematical Olympiad <font size="2" color="#A8A8A8">(50 in China)</font>
   
 ## Internship Experience
 - 
