@@ -21,7 +21,8 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 ## Publications
 
 <img src="照片.jpeg" alt="西安科技大学高新学院" align="left" hspace="20" height="300"/> 
-**Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+  
+  **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
   **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
   <br>
