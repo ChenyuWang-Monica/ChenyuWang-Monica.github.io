@@ -20,7 +20,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 
 ## Publications
 <div class="4u 12u$(xsmall) work-item">
-                <img src="images/thumbs/stanza.png" width="100%" alt="" />
+                <img src="照片.jpeg" width="100%" alt="" />
             </div>
             <div class="8u$ 12u$(xsmall) work-item">
                 <h3>Stanza: A Python Natural Language Processing Toolkit for Many Human Languages. <a href="https://arxiv.org/pdf/2003.07082.pdf" style="color:rgba(0,0,255,0.5);font-size:10pt">[PDF]</a><a href="https://stanfordnlp.github.io/stanza/" style="color:rgba(0,0,255,0.5);font-size:10pt">[DOC]</a><a href="http://stanza.run" style="color:rgba(0,0,255,0.5);font-size:10pt">[DEMO]</a></h3>
