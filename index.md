@@ -37,8 +37,3 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2021**.
   <br>
   [[PDF](https://arxiv.org/pdf/2104.03620.pdf)] [[Code](https://github.com/thuml/OpenDG-DAML)]
-
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
