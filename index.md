@@ -19,6 +19,13 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 ## Publications
+
+<img src="照片.jpeg" alt="西安科技大学高新学院" align="left" hspace="20" height="300"/> 
+<h2><font face="微软雅黑" size="6" color="#3333FF">西安科技大学高新学院</font></h2> 
+<p><font size="3" color="#FF00CC">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;西安科技大学高新学院（Xi'an Kedagaoxin University）简称"西科大高新学院"，位于世界历史名城古都西安，是经教育部批准，由西安科技大学主办，社会力量参与，以新机制、新模式成立的全日制普通本科独立学院。</font></p> 
+<p><font size="3" color="#FF00CC">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学校的办学历史可追溯到2003年，原名叫西安科技大学电子信息学院。经教育部批准，2006年西安科技大学高新学院正式成立。</font></p> 
+<p><font size="3" color="#FF00CC">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;西安科技大学对高新学院的教学组织和管理负责，任课教师和管理干部主要从西安科技大学选聘，确保教学质量和办学方向。</font></p>
+
 <div class="4u 12u$(xsmall) work-item">
     <img src="照片.jpeg" width="100%" alt="" />
 </div>
