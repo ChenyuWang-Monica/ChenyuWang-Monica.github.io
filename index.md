@@ -41,7 +41,7 @@ We propose an MCTS-guided neural contextual bandits algorithm that utilizes a mo
             <br>
             <b> <font size="3.5">HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting</font> </b>
             <br>
-            <b>Chenyu Wang</b>*, Zongyu Lin*, Xiaochen Yang, Mingxuan Yue, Jiao Sun, <a href="https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus"> Cyrus Shahabi </a> (* Equal Contribution)
+            <b>Chenyu Wang</b>*, Zongyu Lin*, Xiaochen Yang, <a href="http://www-scf.usc.edu/~mingxuay/">Mingxuan Yue</a>, <a href="https://caozhangjie.github.io/">Jiao Sun</a>, <a href="https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus"> Cyrus Shahabi </a> (* Equal Contribution)
             <br>
             Arxiv preprint, under review of AAAI Conference on Artificial Intelligence. <b>AAAI 2022</b>.
             <br>
