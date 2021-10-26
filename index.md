@@ -19,6 +19,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 ## Publications
+<div class="row">
 <div class="4u 12u$(xsmall) work-item">
                 <img src="照片.jpeg" width="100%" alt="" />
             </div>
@@ -28,7 +29,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
                 <h4><i>ACL: System Demonstrations (2020)</i>.</h4>
                 <p>The Stanford NLP Group's official Python NLP library. It contains support for running various accurate natural language processing tools on 60+ languages and for accessing the Java Stanford CoreNLP software from Python. </p>
             </div>
-
+</div>
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
   **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
