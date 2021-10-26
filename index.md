@@ -12,7 +12,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
   
 - **Tree-Based Neural Bandits for High-Value Protein Design**
   <br>
-  **Chenyu Wang***, Joseph Kim*, Le Cong, Mengdi Wang (* Equal Contribution)
+  **Chenyu Wang**\*, Joseph Kim\*, Le Cong, Mengdi Wang (* Equal Contribution)
   <br>
   Under review of International Conference on Artificial Intelligence and Statistics. **AISTATS 2022**.
 
@@ -21,7 +21,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
   
 - **HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting**
   <br>
-  **Chenyu Wang***, Zongyu Lin*, Xiaochen Yang, Mingxuan Yue, Jiao Sun, Cyrus Shahabi (* Equal Contribution)
+  **Chenyu Wang**\*, Zongyu Lin\*, Xiaochen Yang, Mingxuan Yue, Jiao Sun, Cyrus Shahabi (* Equal Contribution)
   <br>
   Arxiv preprint, under review of AAAI Conference on Artificial Intelligence. **AAAI 2022**.
   <br>
@@ -32,7 +32,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
   
 - **Open Domain Generalization with Domain-Augmented Meta-Learning**
   <br>
-  Yang Shu*, Zhangjie Cao*, **Chenyu Wang**, Jianmin Wang, Mingsheng Long (* Equal Contribution)
+  Yang Shu\*, Zhangjie Cao\*, **Chenyu Wang**, Jianmin Wang, Mingsheng Long (* Equal Contribution)
   <br>
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2021**.
   <br>
