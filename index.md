@@ -18,7 +18,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
         <td>
             <!--右侧内容-->
             <br>
-            <b> <font size="3.9">Tree-Based Neural Bandits for High-Value Protein Design</font> </b>
+            <b> Tree-Based Neural Bandits for High-Value Protein Design </b>
             <br>
             <b>Chenyu Wang</b>*, Joseph Kim*, <a href="https://profiles.stanford.edu/186687">Le Cong</a>, <a href="https://mwang.princeton.edu/">Mengdi Wang</a> (* Equal Contribution)
             <br>
@@ -39,7 +39,7 @@ We propose an MCTS-guided neural contextual bandits algorithm that utilizes a mo
         <td>
             <!--右侧内容-->
             <br>
-            <b> <font size="3.9">HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting</font> </b>
+            <b> HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting </b>
             <br>
             <b>Chenyu Wang</b>*, Zongyu Lin*, Xiaochen Yang, <a href="http://www-scf.usc.edu/~mingxuay/">Mingxuan Yue</a>, <a href="https://caozhangjie.github.io/">Jiao Sun</a>, <a href="https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus">Cyrus Shahabi</a> (* Equal Contribution)
             <br>
@@ -62,7 +62,7 @@ We present HAGEN, an end-to-end graph convolutional recurrent network with a nov
         <td>
             <!--右侧内容-->
             <br>
-            <b> <font size="3.9">Open Domain Generalization with Domain-Augmented Meta-Learning</font> </b>
+            <b> Open Domain Generalization with Domain-Augmented Meta-Learning </b>
             <br>
             Yang Shu*, <a href="https://caozhangjie.github.io/">Zhangjie Cao</a>*, <b>Chenyu Wang</b>*, <a href="https://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219100058471372347/20101219100058471372347_.html">Jianmin Wang</a>, <a href="http://ise.thss.tsinghua.edu.cn/~mlong/">Mingsheng Long</a> (* Equal Contribution)
             <br>
