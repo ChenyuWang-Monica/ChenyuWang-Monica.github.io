@@ -10,7 +10,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 
 <table frame=void rules=none>
     <tr>
-        <td width="360px">
+        <td width="160px">
             <!--左侧内容-->
             <br>
             <img src="1.jpg">
@@ -18,7 +18,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
         <td>
             <!--右侧内容-->
             <br>
-            <b> <font size="5">Tree-Based Neural Bandits for High-Value Protein Design</font> </b>
+            <b> <font size="3">Tree-Based Neural Bandits for High-Value Protein Design</font> </b>
             <br>
             <b>Chenyu Wang</b>*, Joseph Kim*, Le Cong, Mengdi Wang (* Equal Contribution)
             <br>
@@ -29,7 +29,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 
 <table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
     <tr>
-        <td width="360px">
+        <td width="160px">
             <!--左侧内容-->
             <br>
             <img src="2.jpg">
@@ -37,7 +37,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
         <td>
             <!--右侧内容-->
             <br>
-            <b> <font size="5">HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting</font> </b>
+            <b> <font size="3">HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting</font> </b>
             <br>
             <b>Chenyu Wang</b>*, Zongyu Lin*, Xiaochen Yang, Mingxuan Yue, Jiao Sun, Cyrus Shahabi (* Equal Contribution)
             <br>
@@ -50,7 +50,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 
 <table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
     <tr>
-        <td width="360px">
+        <td width="160px">
             <!--左侧内容-->
             <br>
             <img src="3.jpg">
@@ -58,7 +58,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
         <td>
             <!--右侧内容-->
             <br>
-            <b> <font size="5">Open Domain Generalization with Domain-Augmented Meta-Learning</font> </b>
+            <b> <font size="3">Open Domain Generalization with Domain-Augmented Meta-Learning</font> </b>
             <br>
             Yang Shu*, Zhangjie Cao*, <b>Chenyu Wang</b>*, Jianmin Wang, Mingsheng Long (* Equal Contribution)
             <br>
