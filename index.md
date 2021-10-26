@@ -7,7 +7,6 @@ layout: homepage
 I am a final-year undergraduate student at [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). [[<font color="#000066">CV</font>](resume_ChenyuWang.pdf)] I'm fortunate to collaborate with [Prof. Mengdi Wang](https://mwang.princeton.edu/) at Princeton University as a research intern. In Spring 2021, I was lucky to work with [Prof. Cyrus Shahabi](https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus). In Fall 2020, I was a research assistant in Tsinghua Universal Machine Learning (THUML) Group under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
 
 <h2><div id="pub">Publications & Preprints</div></h2>
-
 <table frame=void rules=none>
     <tr>
         <td width="220px">
