@@ -48,16 +48,6 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
     </tr>
 </table>
 
-<img src="2.jpg" alt="" align="left" height="100" width="300"/> 
-  
-- **HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting**
-  <br>
-  **Chenyu Wang**\*, Zongyu Lin\*, Xiaochen Yang, Mingxuan Yue, Jiao Sun, Cyrus Shahabi (* Equal Contribution)
-  <br>
-  Arxiv preprint, under review of AAAI Conference on Artificial Intelligence. **AAAI 2022**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2109.12846.pdf)]
-
 <table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
     <tr>
         <td>
@@ -68,24 +58,17 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
         <td>
             <!--右侧内容-->
             <br>
-            <b> Tree-Based Neural Bandits for High-Value Protein Design </b>
+            <b> Open Domain Generalization with Domain-Augmented Meta-Learning </b>
             <br>
-            <b>Chenyu Wang</b>*, Joseph Kim*, Le Cong, Mengdi Wang (* Equal Contribution)
+            Yang Shu*, Zhangjie Cao*, <b>Chenyu Wang</b>*, Jianmin Wang, Mingsheng Long (* Equal Contribution)
             <br>
-            Under review of International Conference on Artificial Intelligence and Statistics. <b>AISTATS 2022</b>.
+            IEEE Conference on Computer Vision and Pattern Recognition. <b>CVPR 2021</b>.
+            <br>
+            <a href=https://arxiv.org/pdf/2104.03620.pdf> [PDF] </a> <a href=https://github.com/thuml/OpenDG-DAML> [Code] </a>
         </td>
     </tr>
 </table>
 
-<img src="3.jpg" alt="" align="left" height="100" width="300"/> 
-
-- **Open Domain Generalization with Domain-Augmented Meta-Learning**
-  <br>
-  Yang Shu\*, Zhangjie Cao\*, **Chenyu Wang**, Jianmin Wang, Mingsheng Long (* Equal Contribution)
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2021**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2104.03620.pdf)] [[Code](https://github.com/thuml/OpenDG-DAML)]
   
 ## Selected Awards
 - 
