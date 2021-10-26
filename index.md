@@ -27,6 +27,26 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
     </tr>
 </table>
 
+<table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
+    <tr>
+        <td>
+            <!--左侧内容-->
+            <br>
+            <img src="2.jpg" width="360px">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b> HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting </b>
+            <br>
+            <b>Chenyu Wang</b>*, Zongyu Lin*, Xiaochen Yang, Mingxuan Yue, Jiao Sun, Cyrus Shahabi (* Equal Contribution)
+            <br>
+            Arxiv preprint, under review of AAAI Conference on Artificial Intelligence. <b>AAAI 2022</b>.
+            <br>
+            <a href=https://arxiv.org/pdf/2109.12846.pdf> [PDF] </a>
+        </td>
+    </tr>
+</table>
 
 <img src="2.jpg" alt="" align="left" height="100" width="300"/> 
   
@@ -38,9 +58,27 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
   <br>
   [[PDF](https://arxiv.org/pdf/2109.12846.pdf)]
 
+<table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
+    <tr>
+        <td>
+            <!--左侧内容-->
+            <br>
+            <img src="3.jpg" width="360px">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b> Tree-Based Neural Bandits for High-Value Protein Design </b>
+            <br>
+            <b>Chenyu Wang</b>*, Joseph Kim*, Le Cong, Mengdi Wang (* Equal Contribution)
+            <br>
+            Under review of International Conference on Artificial Intelligence and Statistics. <b>AISTATS 2022</b>.
+        </td>
+    </tr>
+</table>
 
 <img src="3.jpg" alt="" align="left" height="100" width="300"/> 
-  
+
 - **Open Domain Generalization with Domain-Augmented Meta-Learning**
   <br>
   Yang Shu\*, Zhangjie Cao\*, **Chenyu Wang**, Jianmin Wang, Mingsheng Long (* Equal Contribution)
