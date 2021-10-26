@@ -76,12 +76,12 @@ We present HAGEN, an end-to-end graph convolutional recurrent network with a nov
 We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address the new open domain generalization problem, which conducts meta-learning over domains augmented at feature-level by specially designed Dir-mixup and at label-level by distilled soft-labels.
 
 ## Selected Awards
-- <i>2021</i>  Meritorious Winner in MCM/ICM Mathematical Contest in Modelling
-- <i>2020</i>  Tang Lixin Scholarship <font size="2" color="#A8A8A8">(50 in Tsinghua)</font>
-- <i>2019</i>  **National Scholarship** <font size="2" color="#A8A8A8">(0.2% in China)</font>
-- <i>2019</i>  Athletics Excellence Scholarship of Tsinghua
-- <i>2018</i>  Gold medalist of 50th **International Chemistry Olympiad** <font size="2" color="#A8A8A8">(4 in China, 6th place in the world)</font>
-- <i>2016</i>  Silver medalist of 15th China Girl’s Mathematical Olympiad <font size="2" color="#A8A8A8">(50 in China)</font>
+- <i>2021</i> &nbsp;&nbsp; Meritorious Winner in MCM/ICM Mathematical Contest in Modelling
+- <i>2020</i> &nbsp;&nbsp; Tang Lixin Scholarship <font size="2" color="#A8A8A8">(50 in Tsinghua)</font>
+- <i>2019</i> &nbsp;&nbsp; **National Scholarship** <font size="2" color="#A8A8A8">(0.2% in China)</font>
+- <i>2019</i> &nbsp;&nbsp; Athletics Excellence Scholarship of Tsinghua
+- <i>2018</i> &nbsp;&nbsp; Gold medalist of 50th **International Chemistry Olympiad** <font size="2" color="#A8A8A8">(4 in China, 6th place in the world)</font>
+- <i>2016</i> &nbsp;&nbsp; Silver medalist of 15th China Girl’s Mathematical Olympiad <font size="2" color="#A8A8A8">(50 in China)</font>
   
 ## Internship Experience
 - 
