@@ -23,6 +23,9 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
             <b>Chenyu Wang</b>*, Joseph Kim*, Le Cong, Mengdi Wang (* Equal Contribution)
             <br>
             Under review of International Conference on Artificial Intelligence and Statistics. <b>AISTATS 2022</b>.
+            <br>
+            <br>
+            We propose an MCTS-guided neural contextual bandits algorithm that utilizes a modified upper-confidence bound algorithm for accelerating the search for optimal protein designs.
         </td>
     </tr>
 </table>
@@ -44,6 +47,9 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
             Arxiv preprint, under review of AAAI Conference on Artificial Intelligence. <b>AAAI 2022</b>.
             <br>
             <a href="https://arxiv.org/pdf/2109.12846.pdf"> [PDF] </a>
+            <br>
+            <br>
+            We present HAGEN, an end-to-end graph convolutional recurrent network with a novel homophily-aware graph learning module for crime forecasting. HAGEN uses an adaptive graph structure to capture the dependency of crime patterns between regions and incorporates direction-aware diffusion convolution layer with GRU module to learn spatiotemporal dynamics.
         </td>
     </tr>
 </table>
@@ -65,6 +71,9 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
             IEEE Conference on Computer Vision and Pattern Recognition. <b>CVPR 2021</b>.
             <br>
             <a href="https://arxiv.org/pdf/2104.03620.pdf"> [PDF] </a> <a href="https://github.com/thuml/OpenDG-DAML"> [Code] </a>
+            <br>
+            <br>
+            We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address the new open domain generalization problem, which conducts meta-learning over domains augmented at feature-level by specially designed Dir-mixup and at label-level by distilled soft-labels.
         </td>
     </tr>
 </table>
