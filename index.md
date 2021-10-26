@@ -12,15 +12,17 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
     <tr>
         <td>
             <!--左侧内容-->
-            Monica169
             <br>
-            <img src="1.jpg" width="100px">
+            <img src="1.jpg" width="300px">
         </td>
         <td>
             <!--右侧内容-->
-            <br>**Tree-Based Neural Bandits for High-Value Protein Design**
-            <br>**Chenyu Wang**\*, Joseph Kim\*, Le Cong, Mengdi Wang (* Equal Contribution)
-            <br>Under review of International Conference on Artificial Intelligence and Statistics. **AISTATS 2022**.
+            <br>
+            **Tree-Based Neural Bandits for High-Value Protein Design**
+            <br>
+            **Chenyu Wang**\*, Joseph Kim\*, Le Cong, Mengdi Wang (* Equal Contribution)
+            <br>
+            Under review of International Conference on Artificial Intelligence and Statistics. **AISTATS 2022**.
         </td>
     </tr>
 </table>
