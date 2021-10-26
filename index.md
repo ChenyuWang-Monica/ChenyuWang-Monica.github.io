@@ -43,7 +43,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
             <br>
             Arxiv preprint, under review of AAAI Conference on Artificial Intelligence. <b>AAAI 2022</b>.
             <br>
-            <a href=https://arxiv.org/pdf/2109.12846.pdf> [PDF] </a>
+            <a href="https://arxiv.org/pdf/2109.12846.pdf"> [PDF] </a>
         </td>
     </tr>
 </table>
@@ -64,7 +64,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
             <br>
             IEEE Conference on Computer Vision and Pattern Recognition. <b>CVPR 2021</b>.
             <br>
-            <a href=https://arxiv.org/pdf/2104.03620.pdf> [PDF] </a> <a href=https://github.com/thuml/OpenDG-DAML> [Code] </a>
+            <a href="https://arxiv.org/pdf/2104.03620.pdf"> [PDF] </a> <a href="https://github.com/thuml/OpenDG-DAML"> [Code] </a>
         </td>
     </tr>
 </table>
