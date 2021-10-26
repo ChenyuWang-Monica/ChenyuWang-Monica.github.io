@@ -13,7 +13,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
         <td>
             <!--左侧内容-->
             <br>
-            <img src="1.jpg" width="300px">
+            <img src="1.jpg" width="360px">
         </td>
         <td>
             <!--右侧内容-->
