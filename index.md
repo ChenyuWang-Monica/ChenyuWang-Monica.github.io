@@ -19,7 +19,16 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 ## Publications
-!<style>.yz_l{float:left;}</style><div class=＂yz_l＂> <div class=＂yz_l＂> <img src=＂http://www.wuyueze.com/ueditor/php/upload/image/20160912/1473693433112265.jpg＂> </div> <div class=＂yz_l＂ style=＂width:100px; margin-left: 10px; text-indent:2em;＂>这就是你要加的文字!这就是你要加的文字!这就是你要加的文字!这就是你要加的文字!</div></div>
+
+            <div class="4u 12u$(xsmall) work-item">
+                <img src="照片.jpeg" width="100%" alt="" />
+            </div>
+            <div class="8u$ 12u$(xsmall) work-item">
+                <h3>Stanza: A Python Natural Language Processing Toolkit for Many Human Languages. <a href="https://arxiv.org/pdf/2003.07082.pdf" style="color:rgba(0,0,255,0.5);font-size:10pt">[PDF]</a><a href="https://stanfordnlp.github.io/stanza/" style="color:rgba(0,0,255,0.5);font-size:10pt">[DOC]</a><a href="http://stanza.run" style="color:rgba(0,0,255,0.5);font-size:10pt">[DEMO]</a></h3>
+                <h4>Peng Qi*, Yuhao Zhang*, <b style="color:rgba(255,0,0,0.5)">Yuhui Zhang</b>, Jason Bolton, Christopher D. Manning.</h4>
+                <h4><i>ACL: System Demonstrations (2020)</i>.</h4>
+                <p>The Stanford NLP Group's official Python NLP library. It contains support for running various accurate natural language processing tools on 60+ languages and for accessing the Java Stanford CoreNLP software from Python. </p>
+            </div>
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
