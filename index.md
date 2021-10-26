@@ -6,55 +6,37 @@ layout: homepage
 
 I am a final-year undergraduate student at [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). I'm fortunate to collaborate with [Prof. Mengdi Wang](https://mwang.princeton.edu/) at Princeton University as a research intern. In Spring 2021, I was lucky to work with [Prof. Cyrus Shahabi](https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus). In Fall 2020, I was a research assistant in Tsinghua Universal Machine Learning (THUML) Group under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
 
-## Research Interests
+## Publications & Preprints
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
-## Publications
-
-<img src="照片.jpeg" alt="" align="left" hspace="20" height="300"/> 
+<img src="1.jpg" alt="" align="left" hspace="20" height="300"/> 
   
-  **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Tree-Based Neural Bandits for High-Value Protein Design**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Chenyu Wang***, Joseph Kim*, Le Cong, Mengdi Wang (* Equal Contribution)
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  Under review of International Conference on Artificial Intelligence and Statistics. **AISTATS 2022**.
 
 
+<img src="2.jpg" alt="" align="left" hspace="20" height="300"/> 
+  
+- **HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting**
+  <br>
+  **Chenyu Wang***, Zongyu Lin*, Xiaochen Yang, Mingxuan Yue, Jiao Sun, Cyrus Shahabi (* Equal Contribution)
+  <br>
+  Arxiv preprint, under review of AAAI Conference on Artificial Intelligence. **AAAI 2022**.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2109.12846.pdf)]
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+<img src="3.jpg" alt="" align="left" hspace="20" height="300"/> 
+  
+- **Open Domain Generalization with Domain-Augmented Meta-Learning**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Yang Shu*, Zhangjie Cao*, **Chenyu Wang**, Jianmin Wang, Mingsheng Long (* Equal Contribution)
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2021**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF](https://arxiv.org/pdf/2104.03620.pdf)] [[Code](https://github.com/thuml/OpenDG-DAML)]
 
 ## Services
 
