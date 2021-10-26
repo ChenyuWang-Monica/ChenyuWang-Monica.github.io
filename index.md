@@ -8,7 +8,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 
 ## Publications & Preprints
 
-<img src="1.jpg" alt="" align="left" hspace="20" height="100" width="100"/> 
+<img src="1.jpg" alt="" align="left" height="100" width="300"/> 
   
 - **Tree-Based Neural Bandits for High-Value Protein Design**
   <br>
@@ -17,7 +17,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
   Under review of International Conference on Artificial Intelligence and Statistics. **AISTATS 2022**.
 
 
-<img src="2.jpg" alt="" align="left" hspace="20" height="300" width="100"/> 
+<img src="2.jpg" alt="" align="left" height="100" width="300"/> 
   
 - **HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting**
   <br>
@@ -28,7 +28,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
   [[PDF](https://arxiv.org/pdf/2109.12846.pdf)]
 
 
-<img src="3.jpg" alt="" align="left" hspace="20" height="300" width="100"/> 
+<img src="3.jpg" alt="" align="left" height="100" width="300"/> 
   
 - **Open Domain Generalization with Domain-Augmented Meta-Learning**
   <br>
