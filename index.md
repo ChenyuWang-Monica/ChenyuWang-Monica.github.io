@@ -20,14 +20,14 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
             <br>
             <b> <font size="3.5">Tree-Based Neural Bandits for High-Value Protein Design</font> </b>
             <br>
-            <b>Chenyu Wang</b>*, Joseph Kim*, Le Cong, Mengdi Wang (* Equal Contribution)
+            <b>Chenyu Wang</b>*, Joseph Kim*,  <a href="https://profiles.stanford.edu/186687"> Le Cong </a>, <a href="https://mwang.princeton.edu/"> Mengdi Wang </a> (* Equal Contribution)
             <br>
             Under review of International Conference on Artificial Intelligence and Statistics. <b>AISTATS 2022</b>.
         </td>
     </tr>
 </table>
 
-We propose an MCTS-guided neural contextual bandits algorithm that utilizes a modified upper-confidence bound algorithm for accelerating the search for optimal protein designs.
+We propose an MCTS-guided neural contextual bandits algorithm that utilizes a modified upper-confidence bound algorithm for accelerating the search for optimal protein designs. This approach finds a diverse and rich class of high fitness proteins using substantially fewer design queries.
 
 <table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
     <tr>
@@ -41,7 +41,7 @@ We propose an MCTS-guided neural contextual bandits algorithm that utilizes a mo
             <br>
             <b> <font size="3.5">HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting</font> </b>
             <br>
-            <b>Chenyu Wang</b>*, Zongyu Lin*, Xiaochen Yang, Mingxuan Yue, Jiao Sun, Cyrus Shahabi (* Equal Contribution)
+            <b>Chenyu Wang</b>*, Zongyu Lin*, Xiaochen Yang, Mingxuan Yue, Jiao Sun, <a href="https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus"> Cyrus Shahabi </a> (* Equal Contribution)
             <br>
             Arxiv preprint, under review of AAAI Conference on Artificial Intelligence. <b>AAAI 2022</b>.
             <br>
@@ -64,7 +64,7 @@ We present HAGEN, an end-to-end graph convolutional recurrent network with a nov
             <br>
             <b> <font size="3.5">Open Domain Generalization with Domain-Augmented Meta-Learning</font> </b>
             <br>
-            Yang Shu*, Zhangjie Cao*, <b>Chenyu Wang</b>*, Jianmin Wang, Mingsheng Long (* Equal Contribution)
+            Yang Shu*, <a href="https://caozhangjie.github.io/">Zhangjie Cao</a>*, <b>Chenyu Wang</b>*, <a href="https://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219100058471372347/20101219100058471372347_.html">Jianmin Wang</a>, <a href="http://ise.thss.tsinghua.edu.cn/~mlong/"> Mingsheng Long </a> (* Equal Contribution)
             <br>
             IEEE Conference on Computer Vision and Pattern Recognition. <b>CVPR 2021</b>.
             <br>
