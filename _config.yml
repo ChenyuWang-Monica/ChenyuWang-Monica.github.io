@@ -1,11 +1,11 @@
-encoding: UTF-8
+# encoding: UTF-8
 title: Chenyu Wang
 affiliation: Tsinghua University
 email: wangchy.18@sem.tsinghua.edu.cn
-# google_scholar: https://scholar.google.com/
-# github_link: https://github.com/yaoyao-liu/minimal-light
-# linkedin: https://www.linkedin.com/
-avatar: ./照片.jpeg
+google_scholar: https://scholar.google.com/
+github_link: https://github.com/yaoyao-liu/minimal-light
+linkedin: https://www.linkedin.com/
+avatar: 照片.jpeg
 google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
