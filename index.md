@@ -18,7 +18,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
         <td>
             <!--右侧内容-->
             <br>
-            <b> <font size="20">Tree-Based Neural Bandits for High-Value Protein Design</font> </b>
+            <b> <font size="30">Tree-Based Neural Bandits for High-Value Protein Design</font> </b>
             <br>
             <b>Chenyu Wang</b>*, Joseph Kim*, Le Cong, Mengdi Wang (* Equal Contribution)
             <br>
