@@ -10,7 +10,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 
 <table frame=void rules=none>
     <tr>
-        <td width="160px">
+        <td width="33%">
             <!--左侧内容-->
             <br>
             <img src="1.jpg">
@@ -29,7 +29,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 
 <table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
     <tr>
-        <td width="160px">
+        <td width="33%">
             <!--左侧内容-->
             <br>
             <img src="2.jpg">
@@ -50,7 +50,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 
 <table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
     <tr>
-        <td width="160px">
+        <td width="33%">
             <!--左侧内容-->
             <br>
             <img src="3.jpg">
@@ -68,6 +68,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
         </td>
     </tr>
 </table>
+
 
 
 
