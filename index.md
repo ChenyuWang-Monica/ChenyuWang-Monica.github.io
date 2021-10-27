@@ -11,7 +11,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 <h2><div id="pub">Publications & Preprints</div></h2>
 <table frame=void rules=none>
     <tr>
-        <td width="220px">
+        <td width="33%">
             <!--左侧内容-->
             <br>
             <img src="1.jpg">
@@ -32,7 +32,7 @@ We propose an MCTS-guided neural contextual bandits algorithm that utilizes a mo
 
 <table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
     <tr>
-        <td width="220px">
+        <td width="33%">
             <!--左侧内容-->
             <br>
             <img src="2.jpg">
@@ -55,7 +55,7 @@ We present HAGEN, an end-to-end graph convolutional recurrent network with a nov
 
 <table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
     <tr>
-        <td width="220px">
+        <td width="33%">
             <!--左侧内容-->
             <br>
             <img src="3.jpg">
@@ -75,6 +75,9 @@ We present HAGEN, an end-to-end graph convolutional recurrent network with a nov
 </table>
 
 We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address the new open domain generalization problem, which conducts meta-learning over domains augmented at feature-level by specially designed Dir-mixup and at label-level by distilled soft-labels.
+
+
+## Selected Awards
 
 <h2><div id="award">Selected Awards</div></h2>
 - <i>2021</i> &nbsp;&nbsp; Meritorious Winner in MCM/ICM Mathematical Contest in Modelling
