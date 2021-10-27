@@ -7,6 +7,7 @@ layout: homepage
 I am a final-year undergraduate student at [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). I'm fortunate to collaborate with [Prof. Mengdi Wang](https://mwang.princeton.edu/) at Princeton University as a research intern. In Spring 2021, I was lucky to work with [Prof. Cyrus Shahabi](https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus) at University of Southern California. In Fall 2020, I was a research assistant in Tsinghua Universal Machine Learning (THUML) Group under the supervision of [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
 
 [Click to view my <font color="#003D79">resume</font>](resume_ChenyuWang.pdf)
+<br>
 
 <h2><div id="pub">Publications & Preprints</div></h2>
 <table frame=void rules=none>
@@ -75,7 +76,7 @@ We present HAGEN, an end-to-end graph convolutional recurrent network with a nov
 </table>
 
 We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address the new open domain generalization problem, which conducts meta-learning over domains augmented at feature-level by specially designed Dir-mixup and at label-level by distilled soft-labels.
-
+<br>
 
 <h2><div id="award">Selected Awards</div></h2>
 - <i>2021</i> &nbsp;&nbsp; Meritorious Winner in MCM/ICM Mathematical Contest in Modelling
@@ -84,11 +85,14 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 - <i>2019</i> &nbsp;&nbsp; Athletics Excellence Scholarship of Tsinghua
 - <i>2018</i> &nbsp;&nbsp; Gold medalist of 50th **International Chemistry Olympiad** <font size="2" color="#A8A8A8">(4 in China, 6th place in the world)</font>
 - <i>2016</i> &nbsp;&nbsp; Silver medalist of 15th China Girl’s Mathematical Olympiad <font size="2" color="#A8A8A8">(50 in China)</font>
-  
+<br>
+
 <h2><div id="intern">Internship Experience</div></h2>
 - **Jane Street Asia Limited**, *Quantitative Trading intern*, Jun. 2021 - Sept. 2021
 - **WizardQuant Capital Management**, *Quantitative Research intern*, Jun. 2020 - Aug. 2020
 - **Techsharpe Quant Capital Management**, *Data Analyst Intern*, Jan. 2020 - Feb. 2020
+<br>
 
 <h2><div id="other">Miscellaneous</div></h2>
 I enjoy (and perhaps good at) doing sports. I'm an active member in the track team and soccer team in my school, getting 1st place in 4\*400m relay, 3rd place in 1500m, women's soccer champion etc. I'm also a fan of literature and classical music. I enjoy travelling and tasting local delicacies. 
+<br>
