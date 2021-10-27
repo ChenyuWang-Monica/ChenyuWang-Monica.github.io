@@ -8,6 +8,7 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
 
 [Click to view my <font color="#003D79">resume</font>](resume_ChenyuWang.pdf)
 <br>
+<br>
 
 <h2><div id="pub">Publications & Preprints</div></h2>
 <table frame=void rules=none>
@@ -77,6 +78,7 @@ We present HAGEN, an end-to-end graph convolutional recurrent network with a nov
 
 We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address the new open domain generalization problem, which conducts meta-learning over domains augmented at feature-level by specially designed Dir-mixup and at label-level by distilled soft-labels.
 <br>
+<br>
 
 <h2><div id="award">Selected Awards</div></h2>
 - <i>2021</i> &nbsp;&nbsp; Meritorious Winner in MCM/ICM Mathematical Contest in Modelling
@@ -86,11 +88,13 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 - <i>2018</i> &nbsp;&nbsp; Gold medalist of 50th **International Chemistry Olympiad** <font size="2" color="#A8A8A8">(4 in China, 6th place in the world)</font>
 - <i>2016</i> &nbsp;&nbsp; Silver medalist of 15th China Girl’s Mathematical Olympiad <font size="2" color="#A8A8A8">(50 in China)</font>
 <br>
+<br>
 
 <h2><div id="intern">Internship Experience</div></h2>
 - **Jane Street Asia Limited**, *Quantitative Trading intern*, Jun. 2021 - Sept. 2021
 - **WizardQuant Capital Management**, *Quantitative Research intern*, Jun. 2020 - Aug. 2020
 - **Techsharpe Quant Capital Management**, *Data Analyst Intern*, Jan. 2020 - Feb. 2020
+<br>
 <br>
 
 <h2><div id="other">Miscellaneous</div></h2>
