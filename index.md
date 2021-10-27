@@ -77,8 +77,6 @@ We present HAGEN, an end-to-end graph convolutional recurrent network with a nov
 We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address the new open domain generalization problem, which conducts meta-learning over domains augmented at feature-level by specially designed Dir-mixup and at label-level by distilled soft-labels.
 
 
-## Selected Awards
-
 <h2><div id="award">Selected Awards</div></h2>
 - <i>2021</i> &nbsp;&nbsp; Meritorious Winner in MCM/ICM Mathematical Contest in Modelling
 - <i>2020</i> &nbsp;&nbsp; Tang Lixin Scholarship <font size="2" color="#A8A8A8">(50 in Tsinghua)</font>
