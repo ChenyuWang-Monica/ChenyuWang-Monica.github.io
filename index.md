@@ -67,7 +67,7 @@ We present HAGEN, an end-to-end graph convolutional recurrent network with a nov
             <br>
             <b> Open Domain Generalization with Domain-Augmented Meta-Learning </b>
             <br>
-            Yang Shu*, <a href="https://caozhangjie.github.io/">Zhangjie Cao</a>*, <b>Chenyu Wang</b>*, <a href="https://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219100058471372347/20101219100058471372347_.html">Jianmin Wang</a>, <a href="http://ise.thss.tsinghua.edu.cn/~mlong/">Mingsheng Long</a> (* Equal Contribution)
+            Yang Shu*, <a href="https://caozhangjie.github.io/">Zhangjie Cao</a>*, <b>Chenyu Wang</b>, <a href="https://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219100058471372347/20101219100058471372347_.html">Jianmin Wang</a>, <a href="http://ise.thss.tsinghua.edu.cn/~mlong/">Mingsheng Long</a> (* Equal Contribution)
             <br>
             IEEE Conference on Computer Vision and Pattern Recognition. <b>CVPR 2021</b>.
             <br>
