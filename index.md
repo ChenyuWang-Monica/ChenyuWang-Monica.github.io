@@ -26,6 +26,8 @@ I am a final-year undergraduate student at [Tsinghua University](https://www.tsi
             <b>Chenyu Wang</b>*, Joseph Kim*, <a href="https://profiles.stanford.edu/186687">Le Cong</a>, <a href="https://mwang.princeton.edu/">Mengdi Wang</a> (* Equal Contribution)
             <br>
             Under review of International Conference on Artificial Intelligence and Statistics. <b>AISTATS 2022</b>.
+            <br>
+            <a href="protein_design.pdf"> [PDF] </a>
         </td>
     </tr>
 </table>
