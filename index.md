@@ -73,7 +73,7 @@ We present HAGEN, an end-to-end graph convolutional recurrent network with a nov
             <br>
             IEEE Conference on Computer Vision and Pattern Recognition. <b>CVPR 2021</b>.
             <br>
-            <a href="https://arxiv.org/pdf/2104.03620.pdf"> [PDF] </a> <a href="https://github.com/thuml/OpenDG-DAML"> [Code] </a>
+            <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Shu_Open_Domain_Generalization_with_Domain-Augmented_Meta-Learning_CVPR_2021_paper.pdf"> [PDF] </a> <a href="https://github.com/thuml/OpenDG-DAML"> [Code] </a>
         </td>
     </tr>
 </table>
