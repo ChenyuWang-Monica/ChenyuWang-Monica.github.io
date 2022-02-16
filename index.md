@@ -48,7 +48,7 @@ We propose an MCTS-guided neural contextual bandits algorithm that utilizes a mo
             <br>
             <b>Chenyu Wang</b>*, Zongyu Lin*, Xiaochen Yang, <a href="http://www-scf.usc.edu/~mingxuay/">Mingxuan Yue</a>, <a href="https://caozhangjie.github.io/">Jiao Sun</a>, <a href="https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus">Cyrus Shahabi</a> (* Equal Contribution)
             <br>
-            AAAI Conference on Artificial Intelligence. <b>AAAI 2022</b>. (accepted, to appear)
+            AAAI Conference on Artificial Intelligence. <b>AAAI 2022</b>. <font color="#003D79">(Oral Presentation)</font>
             <br>
             <a href="https://arxiv.org/pdf/2109.12846.pdf"> [PDF] </a>
         </td>
