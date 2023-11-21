@@ -65,7 +65,8 @@ We propose InfoCORE to mitigate the confounding factors in multimodal molecular 
 
 We propose an MCTS-guided neural contextual bandits algorithm that utilizes a modified upper-confidence bound algorithm for accelerating the search for optimal protein designs.
 
-<table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
+<table frame=void rules=none>
+<!-- <table style="margin-left: auto; margin-right: auto;" frame=void rules=none> -->
     <tr>
         <td width="33%">
             <!--左侧内容-->
@@ -88,7 +89,8 @@ We propose an MCTS-guided neural contextual bandits algorithm that utilizes a mo
 
 We present HAGEN, an end-to-end graph convolutional recurrent network with a novel homophily-aware graph learning module to learn spatiotemporal dynamics for crime forecasting.
 
-<table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
+<!-- <table style="margin-left: auto; margin-right: auto;" frame=void rules=none> -->
+<table frame=void rules=none>
     <tr>
         <td width="33%">
             <!--左侧内容-->
