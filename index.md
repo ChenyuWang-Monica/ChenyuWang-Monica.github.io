@@ -155,7 +155,7 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
             <br>
             Advisor: <a href="http://ise.thss.tsinghua.edu.cn/~mlong/">Mingsheng Long</a>  
             <br>
-            Mentor: <a href="https://shuyang96.github.io/">Yang Shu<a>       
+            Mentor: <a href="https://shuyang96.github.io/">Yang Shu</a>       
         </td>
     </tr>
 </table>
@@ -218,7 +218,7 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 <br>
 
 <h2><div id="intern">Internship Experience</div></h2>
-- **Jane Street Asia Limited**, *Quantitative Trading intern (return offer extended)*, Jun. 2021 - Sept. 2021
+- **Jane Street**, *Quantitative Trading intern* (return offer extended), Jun. 2021 - Sept. 2021
 - **WizardQuant Capital Management**, *Quantitative Research intern*, Jun. 2020 - Aug. 2020
 - **Techsharpe Quant Capital Management**, *Data Analyst Intern*, Jan. 2020 - Feb. 2020
 <br>
