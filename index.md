@@ -120,7 +120,7 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 <h2><div id="education">Education</div></h2>
 <table frame=void rules=none>
     <tr>
-        <td width="20%">
+        <td width="15%">
             <br>
             <img src="mit.png">
         </td>
@@ -139,7 +139,7 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 
 <table frame=void rules=none>
     <tr>
-        <td width="20%">
+        <td width="15%">
             <br>
             <img src="thu2.png">
         </td>
@@ -162,7 +162,7 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 
 <table frame=void rules=none>
     <tr>
-        <td width="20%">
+        <td width="15%">
             <br>
             <img src="princeton.png">
         </td>
@@ -183,7 +183,7 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 
 <table frame=void rules=none>
     <tr>
-        <td width="20%">
+        <td width="15%">
             <br>
             <img src="usc.png">
         </td>
@@ -204,16 +204,16 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 <!-- A8A8A8 -->
 <h2><div id="award">Selected Awards</div></h2>
 - <i>2022</i> &nbsp;&nbsp; MIT EECS Great Educators Fellowship
-- <i>2022</i> &nbsp;&nbsp; **Outstanding Undergraduate in Tsinghua** <font size="3" color="#6d6d6d">(2% in Tsinghua)</font>
+- <i>2022</i> &nbsp;&nbsp; **Outstanding Undergraduate in Tsinghua** <font size="2.5" color="#6d6d6d">(2% in Tsinghua)</font>
 - <i>2022</i> &nbsp;&nbsp; Outstanding Undergraduate in Beijing
-- <i>2022</i> &nbsp;&nbsp; **Chen Daisun Scholarship** <font size="3" color="#6d6d6d">(3 in Tsinghua SEM)</font>
+- <i>2022</i> &nbsp;&nbsp; **Chen Daisun Scholarship** <font size="2.5" color="#6d6d6d">(3 in Tsinghua SEM)</font>
 - <i>2022</i> &nbsp;&nbsp; Undergraduate Commencement Student Speaker of Tsinghua SEM
 - <i>2021</i> &nbsp;&nbsp; Meritorious Winner in MCM/ICM Mathematical Contest in Modelling
-- <i>2020</i> &nbsp;&nbsp; Tang Lixin Scholarship <font size="3" color="#6d6d6d">(50 in Tsinghua)</font>
-- <i>2019</i> &nbsp;&nbsp; **National Scholarship** <font size="3" color="#6d6d6d">(0.2% in China)</font>
+- <i>2020</i> &nbsp;&nbsp; Tang Lixin Scholarship <font size="2.5" color="#6d6d6d">(50 in Tsinghua)</font>
+- <i>2019</i> &nbsp;&nbsp; **National Scholarship** <font size="2.5" color="#6d6d6d">(0.2% in China)</font>
 - <i>2019</i> &nbsp;&nbsp; Athletics Excellence Scholarship of Tsinghua
-- <i>2018</i> &nbsp;&nbsp; Gold medalist of 50th **International Chemistry Olympiad** <font size="3" color="#6d6d6d">(4 in China, 6th place in the world)</font>
-- <i>2016</i> &nbsp;&nbsp; Silver medalist of 15th China Girl’s Mathematical Olympiad <font size="3" color="#6d6d6d">(50 in China)</font>
+- <i>2018</i> &nbsp;&nbsp; Gold medalist of 50th **International Chemistry Olympiad** <font size="2.5" color="#6d6d6d">(4 in China, 6th place in the world)</font>
+- <i>2016</i> &nbsp;&nbsp; Silver medalist of 15th China Girl’s Mathematical Olympiad <font size="2.5" color="#6d6d6d">(50 in China)</font>
 <br>
 <br>
 
