@@ -120,7 +120,7 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 <h2><div id="education">Education</div></h2>
 <table frame=void rules=none>
     <tr>
-        <td width="33%">
+        <td width="20%">
             <br>
             <img src="mit.png">
         </td>
@@ -139,7 +139,7 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 
 <table frame=void rules=none>
     <tr>
-        <td width="33%">
+        <td width="20%">
             <br>
             <img src="thu2.png">
         </td>
@@ -162,7 +162,7 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 
 <table frame=void rules=none>
     <tr>
-        <td width="33%">
+        <td width="20%">
             <br>
             <img src="princeton.png">
         </td>
@@ -183,7 +183,7 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 
 <table frame=void rules=none>
     <tr>
-        <td width="33%">
+        <td width="20%">
             <br>
             <img src="usc.png">
         </td>
