@@ -93,12 +93,10 @@ We present HAGEN, an end-to-end graph convolutional recurrent network with a nov
 <table frame=void rules=none>
     <tr>
         <td width="33%">
-            <!--左侧内容-->
             <br>
             <img src="3.jpg">
         </td>
         <td>
-            <!--右侧内容-->
             <br>
             <b> Open Domain Generalization with Domain-Augmented Meta-Learning </b>
             <br>
@@ -112,20 +110,17 @@ We present HAGEN, an end-to-end graph convolutional recurrent network with a nov
 </table>
 
 We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address the new open domain generalization problem, which conducts meta-learning over domains augmented at both feature-level and label-level.
-<br>
-<br>
+<!-- <br>
+<br> -->
 
-<h2><div id="education">Education</div></h2>
-
+<!-- <h2><div id="education">Education</div></h2>
 <table frame=void rules=none>
     <tr>
         <td width="33%">
-            <!--左侧内容-->
             <br>
             <img src="mit.png">
         </td>
         <td>
-            <!--右侧内容-->
             <br>
             <b> Massachusetts Institute of Technology</b>
             <br>
@@ -141,12 +136,10 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 <table frame=void rules=none>
     <tr>
         <td width="33%">
-            <!--左侧内容-->
             <br>
             <img src="thu2.png">
         </td>
         <td>
-            <!--右侧内容-->
             <br>
             <b> Tsinghua University</b>
             <br>
@@ -166,12 +159,10 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 <table frame=void rules=none>
     <tr>
         <td width="33%">
-            <!--左侧内容-->
             <br>
             <img src="princeton.png">
         </td>
         <td>
-            <!--右侧内容-->
             <br>
             <b> Princeton University</b>
             <br>
@@ -189,12 +180,10 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 <table frame=void rules=none>
     <tr>
         <td width="33%">
-            <!--左侧内容-->
             <br>
             <img src="usc.png">
         </td>
         <td>
-            <!--右侧内容-->
             <br>
             <b> University of Southern California</b>
             <br>
@@ -207,7 +196,7 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
             Mentor: <a href="https://caozhangjie.github.io/">Jiao Sun</a>, <a href="http://www-scf.usc.edu/~mingxuay/">Mingxuan Yue</a>       
         </td>
     </tr>
-</table>
+</table> -->
 
 <h2><div id="award">Selected Awards</div></h2>
 - <i>2022</i> &nbsp;&nbsp; MIT EECS Great Educators Fellowship
