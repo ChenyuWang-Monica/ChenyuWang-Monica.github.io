@@ -40,7 +40,8 @@ Feel free to contact me at wangchy [at] mit [dot] edu.
 </table>
 
 We propose InfoCORE to mitigate the confounding factors in multimodal molecular representation learning from multiple information sources, in particular the confounding batch effects in drug screening data.
-
+<br>
+<br>
 
 <table frame=void rules=none>
     <tr>
@@ -64,6 +65,8 @@ We propose InfoCORE to mitigate the confounding factors in multimodal molecular 
 </table>
 
 We propose an MCTS-guided neural contextual bandits algorithm that utilizes a modified upper-confidence bound algorithm for accelerating the search for optimal protein designs.
+<br>
+<br>
 
 <table frame=void rules=none>
 <!-- <table style="margin-left: auto; margin-right: auto;" frame=void rules=none> -->
@@ -88,6 +91,8 @@ We propose an MCTS-guided neural contextual bandits algorithm that utilizes a mo
 </table>
 
 We present HAGEN, an end-to-end graph convolutional recurrent network with a novel homophily-aware graph learning module to learn spatiotemporal dynamics for crime forecasting.
+<br>
+<br>
 
 <!-- <table style="margin-left: auto; margin-right: auto;" frame=void rules=none> -->
 <table frame=void rules=none>
@@ -108,12 +113,11 @@ We present HAGEN, an end-to-end graph convolutional recurrent network with a nov
         </td>
     </tr>
 </table>
-
 We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address the new open domain generalization problem, which conducts meta-learning over domains augmented at both feature-level and label-level.
-<!-- <br>
-<br> -->
+<br>
+<br>
 
-<!-- <h2><div id="education">Education</div></h2>
+<h2><div id="education">Education</div></h2>
 <table frame=void rules=none>
     <tr>
         <td width="33%">
@@ -196,7 +200,7 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
             Mentor: <a href="https://caozhangjie.github.io/">Jiao Sun</a>, <a href="http://www-scf.usc.edu/~mingxuay/">Mingxuan Yue</a>       
         </td>
     </tr>
-</table> -->
+</table>
 
 <h2><div id="award">Selected Awards</div></h2>
 - <i>2022</i> &nbsp;&nbsp; MIT EECS Great Educators Fellowship
