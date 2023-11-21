@@ -8,8 +8,7 @@ I am a second-year PhD student at [MIT EECS](https://www.eecs.mit.edu/), advised
 
 Before my PhD, I obtained my Bachelor’s degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), working as a research assistant in Tsinghua Universal Machine Learning (THUML) Group under the supervision of [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). I was also fortunate to work as a research intern with [Mengdi Wang](https://mwang.princeton.edu/) and [Le Cong](https://profiles.stanford.edu/186687) at Princeton University and with [Cyrus Shahabi](https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus) at University of Southern California.
 
-Feel free to contact me at wangchy [at] mit [dot] edu.
-
+<!-- Feel free to contact me at wangchy [at] mit [dot] edu. -->
 
 [Google Scholar](https://scholar.google.com/citations?user=Kq0dhLAAAAAJ&hl) / [LinkedIn](https://www.linkedin.com/in/chenyu-wang-3a6a9a193/) / Resume (Updated in Nov 2023)
 <!-- [Resume](resume_ChenyuWang.pdf) (Updated in Nov 2023) -->
@@ -225,5 +224,5 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 <br>
 
 <h2><div id="other">Miscellaneous</div></h2>
-I enjoy (and perhaps good at) doing sports. I'm an active member in the track team and soccer team in my school, getting 1st place in 4\*400m relay, 3rd place in 1500m, women's soccer champion etc. I'm also a fan of literature and classical music. I enjoy travelling and tasting local delicacies. 
+I enjoy (and perhaps good at) doing sports. During undergrad, I was an active member in the track team and soccer team in my school, getting 1st place in 4\*400m relay, 3rd place in 1500m, women's soccer champion etc. I'm also a fan of literature and classical music. I enjoy travelling and tasting local delicacies. 
 <br>
