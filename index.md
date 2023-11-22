@@ -6,7 +6,7 @@ layout: homepage
 
 I am a second-year PhD student at [MIT EECS](https://www.eecs.mit.edu/), advised by [Tommi Jaakkola](https://people.csail.mit.edu/tommi/) and [Caroline Uhler](https://www.carolineuhler.com/). I am also affiliated with Eric and Wendy Schmidt Center ([EWSC](https://www.ericandwendyschmidtcenter.org/)) at [Broad Institute](https://www.broadinstitute.org/). My research interests lie broadly in machine learning, representation learning, and AI for science. Recently my research focuses on multi-modal representation learning and perturbation modelling for drug discovery.
 
-Before my PhD, I obtained my Bachelor’s degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), working as a research assistant in Tsinghua Universal Machine Learning (THUML) Group under the supervision of [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). I was also fortunate to work as a research intern with [Mengdi Wang](https://mwang.princeton.edu/) and [Le Cong](https://profiles.stanford.edu/186687) at Princeton University and with [Cyrus Shahabi](https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus) at University of Southern California.
+Before my PhD, I obtained my Bachelor’s degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), working as a research assistant in Tsinghua Universal Machine Learning (THUML) Group under the supervision of [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). I was also fortunate to work as a research intern with [Mengdi Wang](https://mwang.princeton.edu/) at Princeton University and with [Cyrus Shahabi](https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus) at University of Southern California.
 
 <!-- Feel free to contact me at wangchy [at] mit [dot] edu. -->
 
