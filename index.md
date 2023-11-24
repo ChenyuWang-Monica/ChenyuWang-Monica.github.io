@@ -10,7 +10,7 @@ Before my PhD, I obtained my Bachelor’s degree from [Tsinghua University](http
 
 <!-- Feel free to contact me at wangchy [at] mit [dot] edu. -->
 
-[Google Scholar](https://scholar.google.com/citations?user=Kq0dhLAAAAAJ&hl) / [LinkedIn](https://www.linkedin.com/in/chenyu-wang-3a6a9a193/) / Resume (Updated in Nov 2023)
+[Google Scholar](https://scholar.google.com/citations?user=Kq0dhLAAAAAJ&hl) / [LinkedIn](https://www.linkedin.com/in/chenyu-wang-3a6a9a193/) / [Resume](resume_ChenyuWang_Nov2023.pdf) (Updated in Nov 2023)
 <!-- [Resume](resume_ChenyuWang.pdf) (Updated in Nov 2023) -->
 <br>
 <br>
