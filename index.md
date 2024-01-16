@@ -10,7 +10,7 @@ Before my PhD, I obtained my Bachelor’s degree from [Tsinghua University](http
 
 <!-- Feel free to contact me at wangchy [at] mit [dot] edu. -->
 
-[Google Scholar](https://scholar.google.com/citations?user=Kq0dhLAAAAAJ&hl) / [LinkedIn](https://www.linkedin.com/in/chenyu-wang-3a6a9a193/) / [Resume](resume_ChenyuWang_Nov2023.pdf) (Updated in Nov 2023)
+[Google Scholar](https://scholar.google.com/citations?user=Kq0dhLAAAAAJ&hl) / [LinkedIn](https://www.linkedin.com/in/chenyu-wang-3a6a9a193/) / [Resume](resume_ChenyuWang_Jan2024.pdf) (Updated in Jan 2024)
 <!-- [Resume](resume_ChenyuWang.pdf) (Updated in Nov 2023) -->
 <br>
 <br>
@@ -30,6 +30,8 @@ Before my PhD, I obtained my Bachelor’s degree from [Tsinghua University](http
             <b> Removing Biases from Molecular Representations via Information Maximization </b>
             <br>
             <b>Chenyu Wang</b>, <a href="https://www.mit.edu/~sharut/">Sharut Gupta</a>, <a href="https://www.carolineuhler.com/">Caroline Uhler</a>, <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>
+            <br>
+            International Conference on Learning Representations. <b>ICLR 2024</b>.
             <br>
             NeurIPS: New Frontiers of AI for Drug Discovery and Development. <b>NeurIPS 2023 AI4D3 Workshop</b>.
             <br>
