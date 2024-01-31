@@ -34,8 +34,8 @@ Before my PhD, I obtained my Bachelor’s degree from [Tsinghua University](http
             <b>Chenyu Wang</b>, <a href="https://www.mit.edu/~sharut/">Sharut Gupta</a>, <a href="https://www.carolineuhler.com/">Caroline Uhler</a>, <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>
             <br>
             International Conference on Learning Representations. <b>ICLR 2024</b>.
-            <br>
-            NeurIPS: New Frontiers of AI for Drug Discovery and Development. <b>NeurIPS 2023 AI4D3 Workshop</b>.
+            <!-- <br>
+            NeurIPS: New Frontiers of AI for Drug Discovery and Development. <b>NeurIPS 2023 AI4D3 Workshop</b>. -->
             <br>
             <a href="https://arxiv.org/abs/2312.00718"> [Paper] </a> <a href="https://github.com/uhlerlab/InfoCORE"> [Code] </a>
         </td>
@@ -86,7 +86,7 @@ We propose an MCTS-guided neural contextual bandits algorithm that utilizes a mo
             <br>
             <b>Chenyu Wang</b>*, <a href="https://rafa-zy.github.io/">Zongyu Lin</a>*, Xiaochen Yang, <a href="http://www-scf.usc.edu/~mingxuay/">Mingxuan Yue</a>, <a href="https://caozhangjie.github.io/">Jiao Sun</a>, <a href="https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus">Cyrus Shahabi</a> (* Equal Contribution)
             <br>
-            AAAI Conference on Artificial Intelligence. <b>AAAI 2022</b>. <font color="#003D79">(Oral Presentation)</font>
+            AAAI Conference on Artificial Intelligence. <b>AAAI 2022</b>. <b><font color="#003D79">(Oral Presentation)</font></b>
             <br>
             <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20338"> [Paper] </a> <a href="https://github.com/Rafa-zy/HAGEN"> [Code] </a> <a href="https://www.youtube.com/watch?v=IyBV33tEx0E"> [Talk at TGL] </a>
         </td>
