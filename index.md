@@ -4,20 +4,188 @@ layout: homepage
 
 <h2><div id="about">About Me</div></h2>
 
-I am a second-year PhD student at [MIT EECS](https://www.eecs.mit.edu/), advised by [Tommi Jaakkola](https://people.csail.mit.edu/tommi/) and [Caroline Uhler](https://www.carolineuhler.com/). I am also affiliated with Eric and Wendy Schmidt Center ([EWSC](https://www.ericandwendyschmidtcenter.org/)) at [Broad Institute](https://www.broadinstitute.org/). My research interests lie broadly in machine learning, representation learning, and AI for science. Recently my research focuses on multi-modal representation learning and perturbation modelling for drug discovery. I am also interested in foundation models for science and spatial-temporal modelling in system biology.
+I am a third-year PhD student at [MIT CSAIL](https://www.csail.mit.edu/), advised by [Tommi Jaakkola](https://people.csail.mit.edu/tommi/). 
+My research interests lie broadly in machine learning, representation learning, generative models, and AI for science. 
+Recently my research focuses on multi-modal learning, diffusion generative models, and controlled generation. 
 
-Before my PhD, I obtained my Bachelor’s degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), working as a research assistant in Tsinghua Universal Machine Learning (THUML) Group under the supervision of [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). I was also fortunate to work as a research intern with [Mengdi Wang](https://mwang.princeton.edu/) at Princeton University and with [Cyrus Shahabi](https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus) at University of Southern California.
+
+Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), working as a research assistant in Tsinghua Universal Machine Learning (THUML) Group under the supervision of [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). I was also fortunate to work as a research intern with [Mengdi Wang](https://mwang.princeton.edu/) at Princeton University and with [Cyrus Shahabi](https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus) at University of Southern California.
 
 <!-- Feel free to contact me at wangchy [at] mit [dot] edu. -->
 
 [Google Scholar](https://scholar.google.com/citations?user=Kq0dhLAAAAAJ&hl) / [LinkedIn](https://www.linkedin.com/in/chenyu-wang-3a6a9a193/) / [Twitter](https://twitter.com/ChenyuW64562111)
 
-[Resume](resume_ChenyuWang_Jan2024.pdf) (Updated in Jan 2024)
+[Resume](resume_ChenyuWang_Oct2024.pdf) (Updated in Oct 2024)
 <!-- [Resume](resume_ChenyuWang.pdf) (Updated in Nov 2023) -->
 <br>
 <br>
 
 <h2><div id="pub">Publications & Preprints</div></h2>
+(* Equal Contribution)
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="drakes.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b> Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design </b>
+            <br>
+            <b>Chenyu Wang</b>*, <a href="https://www.masatoshiuehara.com/">Masatoshi Uehara</a>*, 
+            <a href="https://yichunher.github.io/">Yichun He</a>, 
+            <a href="https://amywangsci.github.io/">Amy Wang</a>, 
+            <a href="https://www.gene.com/scientists/our-scientists/tommaso-biancalani">Tommaso Biancalani</a>, 
+            <a href="https://avantikalal.github.io/">Avantika Lal</a>, 
+            <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>, 
+            <a href="https://people.eecs.berkeley.edu/~svlevine/index.htm">Sergey Levine</a>, 
+            <a href="https://www.hanchenw.com/">Hanchen Wang</a>, 
+            <a href="https://www.gene.com/scientists/our-scientists/aviv-regev">Aviv Regev</a>
+            <br>
+            NeurIPS 2024 Workshop on Machine Learning in Structural Biology.
+            <br>
+            <a href="https://github.com/ChenyuWang-Monica/DRAKES"> [Code] </a>
+            <!-- <a href="protein_design.pdf"> [Paper] </a> -->
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="disentangledssl.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b> An Information Criterion for Controlled Disentanglement of Multimodal Data </b>
+            <br>
+            <b>Chenyu Wang</b>*, <a href="https://www.mit.edu/~sharut/">Sharut Gupta</a>*, 
+            <a href="https://scholar.google.com/citations?user=2gU9PYQAAAAJ&hl=en">Xinyi Zhang</a>, 
+            <a href="https://www.cs.toronto.edu/~stonekaboni/">Sana Tonekaboni</a>, 
+            <a href="https://people.csail.mit.edu/stefje/">Stefanie Jegelka</a>, 
+            <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>, 
+            <a href="https://www.carolineuhler.com/">Caroline Uhler</a>
+            <br>
+            NeurIPS 2024 Workshop on Unifying Representations in Neural Models.
+            <!-- <br>
+            NeurIPS: New Frontiers of AI for Drug Discovery and Development. <b>NeurIPS 2023 AI4D3 Workshop</b>. -->
+            <br>
+            <a href="https://openreview.net/forum?id=r7Xnetd0Pq#discussion"> [Paper] </a>
+            <!-- <a href="https://arxiv.org/abs/2312.00718"> [Paper] </a> <a href="https://github.com/uhlerlab/InfoCORE"> [Code] </a> -->
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="svdd.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b> Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding </b>
+            <br>
+            <a href="https://hyanan16.github.io/">Xiner Li</a>, 
+            <a href="https://yulaizhao.com/">Yulai Zhao</a>, 
+            <b>Chenyu Wang</b>, 
+            <a href="https://scholar.google.it/citations?user=MxeFvewAAAAJ&hl=it">Gabriele Scalia</a>, 
+            <a href="https://scholar.google.de/citations?user=vEiu33sAAAAJ&hl=en">Gokcen Eraslan</a>, 
+            <a href="https://suragnair.github.io/">Surag Nair</a>, 
+            <a href="https://www.gene.com/scientists/our-scientists/tommaso-biancalani">Tommaso Biancalani</a>, 
+            <a href="https://www.gene.com/scientists/our-scientists/aviv-regev">Aviv Regev</a>, 
+            <a href="https://people.eecs.berkeley.edu/~svlevine/index.htm">Sergey Levine</a>, 
+            <a href="https://www.masatoshiuehara.com/">Masatoshi Uehara</a>
+            <br>
+            NeurIPS 2024 Workshop on AI for New Drug Modalities.
+            <br>
+            <a href="https://arxiv.org/abs/2408.08252"> [Paper] </a> <a href="https://github.com/masa-ue/SVDD"> [Code] </a>
+            <!-- <a href="protein_design.pdf"> [Paper] </a> -->
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="contextssl.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b> In-Context Symmetries: Self-Supervised Learning through Contextual World Models </b>
+            <br>
+            <a href="https://www.mit.edu/~sharut/">Sharut Gupta</a>*, <b>Chenyu Wang</b>*, 
+            <a href="https://yifeiwang77.com/">Yifei Wang</a>*, 
+            <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>, 
+            <a href="https://people.csail.mit.edu/stefje/">Stefanie Jegelka</a>, 
+            <br>
+            Advances in Neural Information Processing Systems. <b>NeurIPS 2024</b>.
+            <!-- <br>
+            NeurIPS: New Frontiers of AI for Drug Discovery and Development. <b>NeurIPS 2023 AI4D3 Workshop</b>. -->
+            <br>
+            <a href="https://arxiv.org/abs/2405.18193"> [Paper] </a>
+            <!-- <a href="https://arxiv.org/abs/2312.00718"> [Paper] </a> <a href="https://github.com/uhlerlab/InfoCORE"> [Code] </a> -->
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="dirichletfm.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b> Dirichlet Flow Matching with Applications to DNA Sequence Design </b>
+            <br>
+            <a href="https://www.mit.edu/~sharut/">Hannes Stark</a>*,
+            <a href="https://www.mit.edu/~sharut/">Bowen Jing</a>*, <b>Chenyu Wang</b>, 
+            <a href="https://yifeiwang77.com/">Gabriele Corso</a>, 
+            <a href="https://people.csail.mit.edu/tommi/">Bonnie Berger</a>, 
+            <a href="https://people.csail.mit.edu/stefje/">Regina Barzilay</a>, 
+            <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>, 
+            <br>
+            International Conference on Machine Learning. <b>ICML 2024</b>.
+            <br>
+            <a href="https://arxiv.org/abs/2402.05841"> [Paper] </a> <a href="https://github.com/HannesStark/dirichlet-flow-matching"> [Code] </a>
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
+
 
 <table frame=void rules=none>
     <tr>
@@ -42,7 +210,7 @@ Before my PhD, I obtained my Bachelor’s degree from [Tsinghua University](http
     </tr>
 </table>
 
-We propose InfoCORE to mitigate the confounding factors in multimodal molecular representation learning from multiple information sources, in particular the confounding batch effects in drug screening data.
+<!-- We propose InfoCORE to mitigate the confounding factors in multimodal molecular representation learning from multiple information sources, in particular the confounding batch effects in drug screening data. -->
 <br>
 <br>
 
@@ -58,7 +226,7 @@ We propose InfoCORE to mitigate the confounding factors in multimodal molecular 
             <br>
             <b> Tree-Based Neural Bandits for High-Value Protein Design </b>
             <br>
-            <b>Chenyu Wang</b>*, Joseph Kim*, <a href="https://profiles.stanford.edu/186687">Le Cong</a>, <a href="https://mwang.princeton.edu/">Mengdi Wang</a> (* Equal Contribution)
+            <b>Chenyu Wang</b>*, Joseph Kim*, <a href="https://profiles.stanford.edu/186687">Le Cong</a>, <a href="https://mwang.princeton.edu/">Mengdi Wang</a> 
             <br>
             56th Annual Conference on Information Sciences and Systems. <b>CISS 2022</b>.
             <br>
@@ -67,7 +235,7 @@ We propose InfoCORE to mitigate the confounding factors in multimodal molecular 
     </tr>
 </table>
 
-We propose an MCTS-guided neural contextual bandits algorithm that utilizes a modified upper-confidence bound algorithm for accelerating the search for optimal protein designs.
+<!-- We propose an MCTS-guided neural contextual bandits algorithm that utilizes a modified upper-confidence bound algorithm for accelerating the search for optimal protein designs. -->
 <br>
 <br>
 
@@ -84,7 +252,7 @@ We propose an MCTS-guided neural contextual bandits algorithm that utilizes a mo
             <br>
             <b> HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting </b>
             <br>
-            <b>Chenyu Wang</b>*, <a href="https://rafa-zy.github.io/">Zongyu Lin</a>*, Xiaochen Yang, <a href="http://www-scf.usc.edu/~mingxuay/">Mingxuan Yue</a>, <a href="https://caozhangjie.github.io/">Jiao Sun</a>, <a href="https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus">Cyrus Shahabi</a> (* Equal Contribution)
+            <b>Chenyu Wang</b>*, <a href="https://rafa-zy.github.io/">Zongyu Lin</a>*, Xiaochen Yang, <a href="http://www-scf.usc.edu/~mingxuay/">Mingxuan Yue</a>, <a href="https://caozhangjie.github.io/">Jiao Sun</a>, <a href="https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus">Cyrus Shahabi</a> 
             <br>
             AAAI Conference on Artificial Intelligence. <b>AAAI 2022</b>. <b><font color="#003D79">(Oral Presentation)</font></b>
             <br>
@@ -93,7 +261,7 @@ We propose an MCTS-guided neural contextual bandits algorithm that utilizes a mo
     </tr>
 </table>
 
-We present HAGEN, an end-to-end graph convolutional recurrent network with a novel homophily-aware graph learning module to learn spatiotemporal dynamics for crime forecasting.
+<!-- We present HAGEN, an end-to-end graph convolutional recurrent network with a novel homophily-aware graph learning module to learn spatiotemporal dynamics for crime forecasting. -->
 <br>
 <br>
 
@@ -108,7 +276,7 @@ We present HAGEN, an end-to-end graph convolutional recurrent network with a nov
             <br>
             <b> Open Domain Generalization with Domain-Augmented Meta-Learning </b>
             <br>
-            <a href="https://shuyang96.github.io/">Yang Shu</a>*, <a href="https://caozhangjie.github.io/">Zhangjie Cao</a>*, <b>Chenyu Wang</b>, <a href="https://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219100058471372347/20101219100058471372347_.html">Jianmin Wang</a>, <a href="http://ise.thss.tsinghua.edu.cn/~mlong/">Mingsheng Long</a> (* Equal Contribution)
+            <a href="https://shuyang96.github.io/">Yang Shu</a>*, <a href="https://caozhangjie.github.io/">Zhangjie Cao</a>*, <b>Chenyu Wang</b>, <a href="https://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219100058471372347/20101219100058471372347_.html">Jianmin Wang</a>, <a href="http://ise.thss.tsinghua.edu.cn/~mlong/">Mingsheng Long</a> 
             <br>
             IEEE Conference on Computer Vision and Pattern Recognition. <b>CVPR 2021</b>.
             <br>
@@ -116,11 +284,11 @@ We present HAGEN, an end-to-end graph convolutional recurrent network with a nov
         </td>
     </tr>
 </table>
-We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address the new open domain generalization problem, which conducts meta-learning over domains augmented at both feature-level and label-level.
+<!-- We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address the new open domain generalization problem, which conducts meta-learning over domains augmented at both feature-level and label-level. -->
 <br>
 <br>
 
-<h2><div id="education">Education</div></h2>
+<h2><div id="education">Education and Research Experience</div></h2>
 <table frame=void rules=none>
     <tr>
         <td width="15%">
@@ -135,7 +303,28 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
             <br>
             PhD student in Computer Science
             <br>
-            Advisor: <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>, <a href="https://www.carolineuhler.com/">Caroline Uhler</a>            
+            Advisor: <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>            
+        </td>
+    </tr>
+</table>
+
+<table frame=void rules=none>
+    <tr>
+        <td width="15%">
+            <br>
+            <img src="genentech.png">
+        </td>
+        <td>
+            <br>
+            <b> Genentech</b>
+            <br>
+            2024.05-2024.08
+            <br>
+            Research intern
+            <br>
+            Advisor: <a href="https://www.gene.com/scientists/our-scientists/aviv-regev">Aviv Regev</a>
+            <br>
+            Mentor: <a href="https://www.hanchenw.com/">Hanchen Wang</a>, <a href="https://www.masatoshiuehara.com/">Masatoshi Uehara</a>       
         </td>
     </tr>
 </table>
@@ -216,16 +405,23 @@ We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address th
 - <i>2019</i> &nbsp;&nbsp; <b>National Scholarship</b> <font size="2.5" color="#6d6d6d">(0.2% in China)</font>
 - <i>2019</i> &nbsp;&nbsp; Athletics Excellence Scholarship of Tsinghua
 - <i>2018</i> &nbsp;&nbsp; Gold medalist of 50th <b>International Chemistry Olympiad</b> <font size="2.5" color="#6d6d6d">(4 in China, 6th place in the world)</font>
-- <i>2016</i> &nbsp;&nbsp; Silver medalist of 15th China Girl’s Mathematical Olympiad <font size="2.5" color="#6d6d6d">(50 in China)</font>
+- <i>2016</i> &nbsp;&nbsp; Silver medalist of 15th China Girl's Mathematical Olympiad <font size="2.5" color="#6d6d6d">(50 in China)</font>
 <br>
 <br>
 
 <h2><div id="intern">Internship Experience</div></h2>
-- **Jane Street**, *Quantitative Trading intern* (return offer extended), Jun. 2021 - Sept. 2021
-- **WizardQuant Capital Management**, *Quantitative Research intern*, Jun. 2020 - Aug. 2020
+- **Genentech**, *Research Intern at Regev Lab*, May 2024 - Aug. 2024
+- **Jane Street**, *Quantitative Trading Intern* (return offer extended), Jun. 2021 - Sept. 2021
+- **WizardQuant Capital Management**, *Quantitative Research Intern*, Jun. 2020 - Aug. 2020
 - **Techsharpe Quant Capital Management**, *Data Analyst Intern*, Jan. 2020 - Feb. 2020
 <br>
 <br>
+
+
+<h2><div id="service">Services</div></h2>
+Reviewer: ICLR 2025, NeurIPS 2024, PLOS Computational Biology
+<br>
+
 
 <h2><div id="other">Miscellaneous</div></h2>
 I enjoy (and perhaps good at) doing sports. During undergrad, I was an active member in the track team and soccer team in my school, getting 1st place in 4\*400m relay, 3rd place in 1500m, women's soccer champion etc. I'm also a fan of literature and classical music. I enjoy travelling and tasting local delicacies. 
