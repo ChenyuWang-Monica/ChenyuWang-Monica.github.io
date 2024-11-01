@@ -76,11 +76,11 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
             <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>, 
             <a href="https://www.carolineuhler.com/">Caroline Uhler</a>
             <br>
-            NeurIPS 2024 Workshop on Unifying Representations in Neural Models.
+            NeurIPS 2024 Workshop on Unifying Representations in Neural Models. <b><font color="#003D79">(Honorable Mention Award)</font></b>
             <!-- <br>
             NeurIPS: New Frontiers of AI for Drug Discovery and Development. <b>NeurIPS 2023 AI4D3 Workshop</b>. -->
             <br>
-            <a href="https://openreview.net/forum?id=r7Xnetd0Pq#discussion"> [Paper] </a>
+            <a href="http://arxiv.org/abs/2410.23996"> [Paper] </a>
             <!-- <a href="https://arxiv.org/abs/2312.00718"> [Paper] </a> <a href="https://github.com/uhlerlab/InfoCORE"> [Code] </a> -->
         </td>
     </tr>
@@ -143,6 +143,8 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
             <a href="https://people.csail.mit.edu/stefje/">Stefanie Jegelka</a>, 
             <br>
             Advances in Neural Information Processing Systems. <b>NeurIPS 2024</b>.
+            <br>
+            Also Oral at NeurIPS 2024 SSL workshop.
             <!-- <br>
             NeurIPS: New Frontiers of AI for Drug Discovery and Development. <b>NeurIPS 2023 AI4D3 Workshop</b>. -->
             <br>
@@ -177,6 +179,8 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
             <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>, 
             <br>
             International Conference on Machine Learning. <b>ICML 2024</b>.
+            <br>
+            Also Oral at ICLR 2024 MLGenX workshop.
             <br>
             <a href="https://arxiv.org/abs/2402.05841"> [Paper] </a> <a href="https://github.com/HannesStark/dirichlet-flow-matching"> [Code] </a>
         </td>
