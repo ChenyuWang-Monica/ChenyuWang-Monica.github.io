@@ -15,7 +15,7 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
 
 [Google Scholar](https://scholar.google.com/citations?user=Kq0dhLAAAAAJ&hl) / [LinkedIn](https://www.linkedin.com/in/chenyu-wang-3a6a9a193/) / [Twitter](https://twitter.com/ChenyuW64562111)
 
-[Resume](resume_ChenyuWang_Oct2024.pdf) (Updated in Oct 2024)
+[Resume](resume_ChenyuWang_Jan2025.pdf) (Updated in Jan 2025)
 <!-- [Resume](resume_ChenyuWang.pdf) (Updated in Nov 2023) -->
 <br>
 <br>
@@ -45,7 +45,7 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
             <a href="https://www.hanchenw.com/">Hanchen Wang</a>, 
             <a href="https://www.gene.com/scientists/our-scientists/aviv-regev">Aviv Regev</a>
             <br>
-            NeurIPS 2024 Workshop on Machine Learning in Structural Biology.
+            International Conference on Learning Representations. <b>ICLR 2025</b>.
             <br>
             <a href="https://arxiv.org/abs/2410.13643"> [Paper] </a><a href="https://github.com/ChenyuWang-Monica/DRAKES"> [Code] </a>
             <!-- <a href="protein_design.pdf"> [Paper] </a> -->
@@ -76,7 +76,10 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
             <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>, 
             <a href="https://www.carolineuhler.com/">Caroline Uhler</a>
             <br>
-            NeurIPS 2024 Workshop on Unifying Representations in Neural Models. <b><font color="#003D79">(Honorable Mention Award)</font></b>
+            International Conference on Learning Representations. <b>ICLR 2025</b>.
+            <br>
+            Also Oral and <b><font color="#003D79">Honorable Mention Award</font></b> at NeurIPS 2024 UniReps workshop.
+            <!-- NeurIPS 2024 Workshop on Unifying Representations in Neural Models. <b><font color="#003D79">(Honorable Mention Award)</font></b> -->
             <!-- <br>
             NeurIPS: New Frontiers of AI for Drug Discovery and Development. <b>NeurIPS 2023 AI4D3 Workshop</b>. -->
             <br>
