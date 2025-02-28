@@ -83,7 +83,7 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
             <!-- <br>
             NeurIPS: New Frontiers of AI for Drug Discovery and Development. <b>NeurIPS 2023 AI4D3 Workshop</b>. -->
             <br>
-            <a href="http://arxiv.org/abs/2410.23996"> [Paper] </a>
+            <a href="http://arxiv.org/abs/2410.23996"> [Paper] </a><a href="https://github.com/uhlerlab/DisentangledSSL"> [Code] </a>
             <!-- <a href="https://arxiv.org/abs/2312.00718"> [Paper] </a> <a href="https://github.com/uhlerlab/InfoCORE"> [Code] </a> -->
         </td>
     </tr>
