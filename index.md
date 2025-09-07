@@ -4,10 +4,8 @@ layout: homepage
 
 <h2><div id="about">About Me</div></h2>
 
-I am a third-year PhD student at [MIT CSAIL](https://www.csail.mit.edu/), advised by [Tommi Jaakkola](https://people.csail.mit.edu/tommi/). 
-My research interests lie broadly in machine learning, representation learning, generative models, and AI for science. 
-Recently my research focuses on multi-modal learning, diffusion generative models, and controlled generation. 
-
+I am a fourth-year PhD student at [MIT CSAIL](https://www.csail.mit.edu/), advised by [Tommi Jaakkola](https://people.csail.mit.edu/tommi/). 
+My research interests lie broadly in deep generative models, reinforcement learning, multi-modal learning, and AI for science. During my PhD, I was an research intern at [Meta FAIR](https://ai.meta.com/) and [Genentech](https://www.gene.com/). My research has been supported by the [Citadel GQS PhD Fellowship](https://www.citadel.com/careers/programs-and-events/gqs-phd-fellowship/).
 
 Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), working as a research assistant in Tsinghua Universal Machine Learning (THUML) Group under the supervision of [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). I was also fortunate to work as a research intern with [Mengdi Wang](https://mwang.princeton.edu/) at Princeton University and with [Cyrus Shahabi](https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus) at University of Southern California.
 
@@ -15,13 +13,171 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
 
 [Google Scholar](https://scholar.google.com/citations?user=Kq0dhLAAAAAJ&hl) / [LinkedIn](https://www.linkedin.com/in/chenyu-wang-3a6a9a193/) / [Twitter](https://twitter.com/ChenyuW64562111)
 
-[Resume](resume_ChenyuWang_Jan2025.pdf) (Updated in Jan 2025)
+[Resume](resume_ChenyuWang_Aug2025.pdf) (Updated in Aug 2025)
 <!-- [Resume](resume_ChenyuWang.pdf) (Updated in Nov 2023) -->
 <br>
+
+<h2><div id="research">Research</div></h2>
+My research focuses on developing controllable and efficient generative models, via reinforcement learning, multi-modal learning, and representation learning. I work across various application domains, including language models, vision, and scientific data (e.g. biochemistry). My recent work explores:
+
+<dl>
+<li><b>Reinforcement learning and inference-time alignment</b> for deep generative models and language models. [7,9,11,12] </li>
+<li><b>Multi-modal learning</b>, especially multi-modal representations and their interactions with generative models. [4,6,8,10,15]</li>
+<li><b>Enhancing biochemistry discovery</b> through generative models and agents. [3,5,13,14] </li>
+</dl>
 <br>
 
 <h2><div id="pub">Publications & Preprints</div></h2>
+Full publication list can be found on <a href="https://scholar.google.com/citations?user=Kq0dhLAAAAAJ&hl)"> Google Scholar</a>.
+<br>
 (* Equal Contribution)
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="reed.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b> 15. <font color="#003D79">Learning Diffusion Models with Flexible Representation Guidance </font></b>
+            <br>
+            <b>Chenyu Wang</b>*, Cai Zhou*, Sharut Gupta, Zongyu Lin, Stefanie Jegelka, Stephen Bates, Tommi Jaakkola
+            <br>
+            Preprint.
+            <br>
+            Also <font color="#c21c0a">Oral</font> at ICML 2025 FM4LS workshop.
+            <br>
+            <a href="https://arxiv.org/pdf/2507.08980"> [Paper] </a> <a href="https://github.com/ChenyuWang-Monica/REED"> [Code] </a>
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="spatialagent.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b>14. <font color="#003D79">SpatialAgent: An autonomous AI agent for spatial biology </font></b>
+            <br>
+            Hanchen Wang*#, Yichun He*, Paula P Coelho*, Matthew Bucci*, ..., <b>Chenyu Wang</b>, ..., Aviv Regev#
+            <br>
+            Preprint.
+            <br>
+            <a href="https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1.full"> [Paper] </a> <a href="https://github.com/Genentech/SpatialAgent"> [Code] </a>
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="cellflux.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b>13. <font color="#003D79">CellFlux: Simulating Cellular Morphology Changes via Flow Matching </font></b>
+            <br>
+            Yuhui Zhang*, Yuchang Su*, <b>Chenyu Wang</b>, Tianhong Li, Zoe Wefers, Jeffrey Nirschl, James Burgess, Daisy Ding, Alejandro Lozano, Emma Lundberg, Serena Yeung-Levy
+            <br>
+            International Conference on Machine Learning. <b>ICML 2025</b>.
+            <br>
+            <a href="https://arxiv.org/pdf/2502.09775"> [Paper] </a> <a href="https://yuhui-zh15.github.io/CellFlux/"> [Project Webpage] </a>
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="review.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b>12. <font color="#003D79">Inference-time alignment in diffusion models with reward-guided generation: Tutorial and review</font> </b>
+            <br>
+            Masatoshi Uehara, Yulai Zhao, <b>Chenyu Wang</b>, Xiner Li, Aviv Regev, Sergey Levine, Tommaso Biancalani
+            <br>
+            Preprint.
+            <br>
+            <a href="https://arxiv.org/pdf/2501.09685"> [Paper] </a> <a href="https://github.com/masa-ue/AlignInversePro"> [Code] </a>
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="glide.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b>11. <font color="#003D79">GLID$^2$E: A Gradient-Free Lightweight Fine-tune Approach for Discrete Sequence Design </font></b>
+            <br>
+            Hanqun Cao*, Haosen Shi*, <b>Chenyu Wang</b>, Sinno Jialin Pan, Pheng-Ann Heng
+            <br>
+            ICLR 2025 GenBio Workshop.
+            <br>
+            <a href="https://openreview.net/pdf?id=29YgYt69Kl"> [Paper] </a>
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="vqa.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b>10. <font color="#003D79">Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation </font></b>
+            <br>
+            Yuhui Zhang*, Yuchang Su*, Yiming Liu, Xiaohan Wang, James Burgess, Elaine Sui, <b>Chenyu Wang</b>, Josiah Aklilu, Alejandro Lozano, Anjiang Wei, Ludwig Schmidt, Serena Yeung-Levy
+            <br>
+            IEEE Conference on Computer Vision and Pattern Recognition. <b>CVPR 2025</b>.
+            <br>
+            <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Automated_Generation_of_Challenging_Multiple-Choice_Questions_for_Vision_Language_Model_CVPR_2025_paper.pdf"> [Paper] </a> <a href="https://yuhui-zh15.github.io/AutoConverter-Website/"> [Project Webpage] </a> <a href="https://github.com/yuhui-zh15/AutoConverter"> [Code] </a>
+            <!-- <a href="protein_design.pdf"> [Paper] </a> -->
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
 
 <table frame=void rules=none>
     <tr>
@@ -33,17 +189,9 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
         <td>
             <!--右侧内容-->
             <br>
-            <b> Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design </b>
+            <b>9. <font color="#003D79">Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design </font></b>
             <br>
-            <b>Chenyu Wang</b>*, <a href="https://www.masatoshiuehara.com/">Masatoshi Uehara</a>*, 
-            <a href="https://yichunher.github.io/">Yichun He</a>, 
-            <a href="https://amywangsci.github.io/">Amy Wang</a>, 
-            <a href="https://www.gene.com/scientists/our-scientists/tommaso-biancalani">Tommaso Biancalani</a>, 
-            <a href="https://avantikalal.github.io/">Avantika Lal</a>, 
-            <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>, 
-            <a href="https://people.eecs.berkeley.edu/~svlevine/index.htm">Sergey Levine</a>, 
-            <a href="https://www.hanchenw.com/">Hanchen Wang</a>, 
-            <a href="https://www.gene.com/scientists/our-scientists/aviv-regev">Aviv Regev</a>
+            <b>Chenyu Wang</b>*, Masatoshi Uehara*, Yichun He, Amy Wang, Tommaso Biancalani, Avantika Lal, Tommi Jaakkola, Sergey Levine, Hanchen Wang, Aviv Regev
             <br>
             International Conference on Learning Representations. <b>ICLR 2025</b>.
             <br>
@@ -67,18 +215,13 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
         <td>
             <!--右侧内容-->
             <br>
-            <b> An Information Criterion for Controlled Disentanglement of Multimodal Data </b>
+            <b>8. <font color="#003D79">An Information Criterion for Controlled Disentanglement of Multimodal Data</font> </b>
             <br>
-            <b>Chenyu Wang</b>*, <a href="https://www.mit.edu/~sharut/">Sharut Gupta</a>*, 
-            <a href="https://scholar.google.com/citations?user=2gU9PYQAAAAJ&hl=en">Xinyi Zhang</a>, 
-            <a href="https://www.cs.toronto.edu/~stonekaboni/">Sana Tonekaboni</a>, 
-            <a href="https://people.csail.mit.edu/stefje/">Stefanie Jegelka</a>, 
-            <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>, 
-            <a href="https://www.carolineuhler.com/">Caroline Uhler</a>
+            <b>Chenyu Wang</b>*, Sharut Gupta*, Xinyi Zhang, Sana Tonekaboni, Stefanie Jegelka, Tommi Jaakkola, Caroline Uhler
             <br>
             International Conference on Learning Representations. <b>ICLR 2025</b>.
             <br>
-            Also Oral and <b><font color="#003D79">Honorable Mention Award</font></b> at NeurIPS 2024 UniReps workshop.
+            Also <font color="#c21c0a">Oral</font> and <b><font color="#c21c0a">Honorable Mention Award</font></b> at NeurIPS 2024 UniReps workshop.
             <!-- NeurIPS 2024 Workshop on Unifying Representations in Neural Models. <b><font color="#003D79">(Honorable Mention Award)</font></b> -->
             <!-- <br>
             NeurIPS: New Frontiers of AI for Drug Discovery and Development. <b>NeurIPS 2023 AI4D3 Workshop</b>. -->
@@ -103,20 +246,11 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
         <td>
             <!--右侧内容-->
             <br>
-            <b> Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding </b>
+            <b>7. <font color="#003D79">Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding</font> </b>
             <br>
-            <a href="https://hyanan16.github.io/">Xiner Li</a>, 
-            <a href="https://yulaizhao.com/">Yulai Zhao</a>, 
-            <b>Chenyu Wang</b>, 
-            <a href="https://scholar.google.it/citations?user=MxeFvewAAAAJ&hl=it">Gabriele Scalia</a>, 
-            <a href="https://scholar.google.de/citations?user=vEiu33sAAAAJ&hl=en">Gokcen Eraslan</a>, 
-            <a href="https://suragnair.github.io/">Surag Nair</a>, 
-            <a href="https://www.gene.com/scientists/our-scientists/tommaso-biancalani">Tommaso Biancalani</a>, 
-            <a href="https://www.gene.com/scientists/our-scientists/aviv-regev">Aviv Regev</a>, 
-            <a href="https://people.eecs.berkeley.edu/~svlevine/index.htm">Sergey Levine</a>, 
-            <a href="https://www.masatoshiuehara.com/">Masatoshi Uehara</a>
+            Xiner Li, Yulai Zhao, <b>Chenyu Wang</b>, Gabriele Scalia, Gokcen Eraslan, Surag Nair, Tommaso Biancalani, Aviv Regev, Sergey Levine, Masatoshi Uehara
             <br>
-            NeurIPS 2024 Workshop on AI for New Drug Modalities.
+            Preprint.
             <br>
             <a href="https://arxiv.org/abs/2408.08252"> [Paper] </a> <a href="https://github.com/masa-ue/SVDD"> [Code] </a>
             <!-- <a href="protein_design.pdf"> [Paper] </a> -->
@@ -138,20 +272,17 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
         <td>
             <!--右侧内容-->
             <br>
-            <b> In-Context Symmetries: Self-Supervised Learning through Contextual World Models </b>
+            <b>6. <font color="#003D79">In-Context Symmetries: Self-Supervised Learning through Contextual World Models </font></b>
             <br>
-            <a href="https://www.mit.edu/~sharut/">Sharut Gupta</a>*, <b>Chenyu Wang</b>*, 
-            <a href="https://yifeiwang77.com/">Yifei Wang</a>*, 
-            <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>, 
-            <a href="https://people.csail.mit.edu/stefje/">Stefanie Jegelka</a>, 
+            Sharut Gupta*, <b>Chenyu Wang</b>*, Yifei Wang*, Tommi Jaakkola, Stefanie Jegelka, 
             <br>
             Advances in Neural Information Processing Systems. <b>NeurIPS 2024</b>.
             <br>
-            Also Oral at NeurIPS 2024 SSL workshop.
+            Also <font color="#c21c0a">Oral</font> at NeurIPS 2024 SSL workshop.
             <!-- <br>
             NeurIPS: New Frontiers of AI for Drug Discovery and Development. <b>NeurIPS 2023 AI4D3 Workshop</b>. -->
             <br>
-            <a href="https://arxiv.org/abs/2405.18193"> [Paper] </a><a href="https://github.com/Sharut/In-Context-Symmetries"> [Code] </a>
+            <a href="https://arxiv.org/abs/2405.18193"> [Paper] </a><a href="https://github.com/Sharut/In-Context-Symmetries"> [Code] </a> <a href="https://www.csail.mit.edu/news/machines-self-adapt-new-tasks-without-re-training"> [MIT CSAIL News]</a>
             <!-- <a href="https://arxiv.org/abs/2312.00718"> [Paper] </a> <a href="https://github.com/uhlerlab/InfoCORE"> [Code] </a> -->
         </td>
     </tr>
@@ -172,18 +303,13 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
         <td>
             <!--右侧内容-->
             <br>
-            <b> Dirichlet Flow Matching with Applications to DNA Sequence Design </b>
+            <b>5. <font color="#003D79">Dirichlet Flow Matching with Applications to DNA Sequence Design</font> </b>
             <br>
-            <a href="https://www.mit.edu/~sharut/">Hannes Stark</a>*,
-            <a href="https://www.mit.edu/~sharut/">Bowen Jing</a>*, <b>Chenyu Wang</b>, 
-            <a href="https://yifeiwang77.com/">Gabriele Corso</a>, 
-            <a href="https://people.csail.mit.edu/tommi/">Bonnie Berger</a>, 
-            <a href="https://people.csail.mit.edu/stefje/">Regina Barzilay</a>, 
-            <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>, 
+            Hannes Stark*, Bowen Jing*, Chenyu Wang, Gabriele Corso, Bonnie Berger, Regina Barzilay, Tommi Jaakkola, 
             <br>
             International Conference on Machine Learning. <b>ICML 2024</b>.
             <br>
-            Also Oral at ICLR 2024 MLGenX workshop.
+            Also <font color="#c21c0a">Oral</font> at ICLR 2024 MLGenX workshop.
             <br>
             <a href="https://arxiv.org/abs/2402.05841"> [Paper] </a> <a href="https://github.com/HannesStark/dirichlet-flow-matching"> [Code] </a>
         </td>
@@ -204,9 +330,9 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
         <td>
             <!--右侧内容-->
             <br>
-            <b> Removing Biases from Molecular Representations via Information Maximization </b>
+            <b>4. <font color="#003D79">Removing Biases from Molecular Representations via Information Maximization </font></b>
             <br>
-            <b>Chenyu Wang</b>, <a href="https://www.mit.edu/~sharut/">Sharut Gupta</a>, <a href="https://www.carolineuhler.com/">Caroline Uhler</a>, <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>
+            <b>Chenyu Wang</b>, Sharut Gupta, Caroline Uhler, Tommi Jaakkola
             <br>
             International Conference on Learning Representations. <b>ICLR 2024</b>.
             <!-- <br>
@@ -231,9 +357,9 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
         <td>
             <!--右侧内容-->
             <br>
-            <b> Tree-Based Neural Bandits for High-Value Protein Design </b>
+            <b>3. <font color="#003D79">Tree-Based Neural Bandits for High-Value Protein Design </font></b>
             <br>
-            <b>Chenyu Wang</b>*, Joseph Kim*, <a href="https://profiles.stanford.edu/186687">Le Cong</a>, <a href="https://mwang.princeton.edu/">Mengdi Wang</a> 
+            <b>Chenyu Wang</b>*, Joseph Kim*, Le Cong, Mengdi Wang
             <br>
             56th Annual Conference on Information Sciences and Systems. <b>CISS 2022</b>.
             <br>
@@ -257,11 +383,11 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
         <td>
             <!--右侧内容-->
             <br>
-            <b> HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting </b>
+            <b>2. <font color="#003D79">HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting </font></b>
             <br>
-            <b>Chenyu Wang</b>*, <a href="https://rafa-zy.github.io/">Zongyu Lin</a>*, Xiaochen Yang, <a href="http://www-scf.usc.edu/~mingxuay/">Mingxuan Yue</a>, <a href="https://caozhangjie.github.io/">Jiao Sun</a>, <a href="https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus">Cyrus Shahabi</a> 
+            <b>Chenyu Wang</b>*, Zongyu Lin*, Xiaochen Yang, Mingxuan Yue, Jiao Sun, Cyrus Shahabi
             <br>
-            AAAI Conference on Artificial Intelligence. <b>AAAI 2022</b>. <b><font color="#003D79">(Oral Presentation)</font></b>
+            AAAI Conference on Artificial Intelligence. <b>AAAI 2022</b>. <b><font color="#c21c0a">(Oral Presentation)</font></b>
             <br>
             <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20338"> [Paper] </a> <a href="https://github.com/Rafa-zy/HAGEN"> [Code] </a> <a href="https://www.youtube.com/watch?v=IyBV33tEx0E"> [Talk at TGL] </a>
         </td>
@@ -281,9 +407,9 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
         </td>
         <td>
             <br>
-            <b> Open Domain Generalization with Domain-Augmented Meta-Learning </b>
+            <b> 1. <font color="#003D79">Open Domain Generalization with Domain-Augmented Meta-Learning</font> </b>
             <br>
-            <a href="https://shuyang96.github.io/">Yang Shu</a>*, <a href="https://caozhangjie.github.io/">Zhangjie Cao</a>*, <b>Chenyu Wang</b>, <a href="https://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219100058471372347/20101219100058471372347_.html">Jianmin Wang</a>, <a href="http://ise.thss.tsinghua.edu.cn/~mlong/">Mingsheng Long</a> 
+            Yang Shu*, Zhangjie Cao*, <b>Chenyu Wang</b>, Jianmin Wang, Mingsheng Long
             <br>
             IEEE Conference on Computer Vision and Pattern Recognition. <b>CVPR 2021</b>.
             <br>
@@ -311,6 +437,25 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
             PhD student in Computer Science
             <br>
             Advisor: <a href="https://people.csail.mit.edu/tommi/">Tommi Jaakkola</a>            
+        </td>
+    </tr>
+</table>
+
+<table frame=void rules=none>
+    <tr>
+        <td width="15%">
+            <br>
+            <img src="meta.png">
+        </td>
+        <td>
+            <br>
+            <b> Meta FAIR</b>
+            <br>
+            2024.05-2024.08
+            <br>
+            Research intern
+            <br>
+            Advisor: <a href="https://yuandong-tian.com/">Yuandong Tian</a>, <a href="https://cranial-xix.github.io">Bo Liu</a>              
         </td>
     </tr>
 </table>
@@ -402,6 +547,9 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
 </table>
 <!-- A8A8A8 -->
 <h2><div id="award">Selected Awards</div></h2>
+- <i>2025</i> &nbsp;&nbsp; <b>Citadel GQS PhD Fellowship</b> <font size="2.5" color="#6d6d6d">(the only recipient in EECS)</font>
+- <i>2025</i> &nbsp;&nbsp; <b>D. E. Shaw Research Doctoral Fellowship</b>
+- <i>2024</i> &nbsp;&nbsp; <b>Honorable Mention Award, NeurIPS 2024 UniReps Workshop</b>
 - <i>2022</i> &nbsp;&nbsp; <b>MIT EECS Great Educators Fellowship</b>
 - <i>2022</i> &nbsp;&nbsp; <b>Outstanding Undergraduate in Tsinghua</b> <font size="2.5" color="#6d6d6d">(2% in Tsinghua)</font>
 - <i>2022</i> &nbsp;&nbsp; Outstanding Undergraduate in Beijing
@@ -417,6 +565,7 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
 <br>
 
 <h2><div id="intern">Internship Experience</div></h2>
+- **Meta FAIR**, *Research Intern*, May 2025 - Aug. 2025
 - **Genentech**, *Research Intern at Regev Lab*, May 2024 - Aug. 2024
 - **Jane Street**, *Quantitative Trading Intern* (return offer extended), Jun. 2021 - Sept. 2021
 - **WizardQuant Capital Management**, *Quantitative Research Intern*, Jun. 2020 - Aug. 2020
@@ -426,7 +575,7 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
 
 
 <h2><div id="service">Services</div></h2>
-Reviewer: ICLR 2025, NeurIPS 2024, PLOS Computational Biology
+Reviewer: ICLR 2025/2026, NeurIPS 2024/2025, ICML 2025, PLOS Computational Biology
 <br>
 <br>
 
