@@ -20,11 +20,11 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
 <h2><div id="research">Research</div></h2>
 My research focuses on developing controllable and efficient generative models, via reinforcement learning, multi-modal learning, and representation learning. I work across various application domains, including language models, vision, and scientific data (e.g. biochemistry). My recent work explores:
 
-<dl>
-<li><b>Reinforcement learning and inference-time alignment</b> for deep generative models and language models. [7,9,11,12] </li>
-<li><b>Multi-modal learning</b>, especially multi-modal representations and their interactions with generative models. [4,6,8,10,15]</li>
-<li><b>Enhancing biochemistry discovery</b> through generative models and agents. [3,5,13,14] </li>
-</dl>
+<ul>
+<li><b>Reinforcement learning and inference-time alignment</b> for deep generative models and language models. [7, 9, 11, 12] </li>
+<li><b>Multi-modal learning</b>, especially multi-modal representations and their interactions with generative models. [4, 6, 8, 10, 15]</li>
+<li><b>Enhancing biochemistry discovery</b> through generative models and agents. [3, 5, 13, 14] </li>
+</ul>
 <br>
 
 <h2><div id="pub">Publications & Preprints</div></h2>
@@ -68,7 +68,7 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
         <td>
             <!--右侧内容-->
             <br>
-            <b>14. <font color="#003D79">SpatialAgent: An autonomous AI agent for spatial biology </font></b>
+            <b>14. <font color="#003D79">SpatialAgent: An Autonomous AI Agent for Spatial Biology </font></b>
             <br>
             Hanchen Wang*#, Yichun He*, Paula P Coelho*, Matthew Bucci*, ..., <b>Chenyu Wang</b>, ..., Aviv Regev#
             <br>
@@ -116,7 +116,7 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
         <td>
             <!--右侧内容-->
             <br>
-            <b>12. <font color="#003D79">Inference-time alignment in diffusion models with reward-guided generation: Tutorial and review</font> </b>
+            <b>12. <font color="#003D79">Inference-time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review</font> </b>
             <br>
             Masatoshi Uehara, Yulai Zhao, <b>Chenyu Wang</b>, Xiner Li, Aviv Regev, Sergey Levine, Tommaso Biancalani
             <br>
