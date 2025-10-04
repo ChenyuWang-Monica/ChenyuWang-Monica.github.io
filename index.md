@@ -21,9 +21,9 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
 My research focuses on developing controllable and efficient generative models, via reinforcement learning, multi-modal learning, and representation learning. I work across various application domains, including language models, vision, and scientific data (e.g. biochemistry). My recent work explores:
 
 <ul>
-<li><b>Reinforcement learning and inference-time alignment</b> for deep generative models and language models. [7, 9, 11, 12] </li>
-<li><b>Multi-modal learning</b>, especially multi-modal representations and their interactions with generative models. [4, 6, 8, 10, 15]</li>
-<li><b>Enhancing biochemistry discovery</b> through generative models and agents. [3, 5, 13, 14] </li>
+<li><b>Reinforcement learning, reasoning, and inference-time alignment</b> for deep generative models and language models. [8, 10, 13, 14] </li>
+<li><b>Multi-modal learning</b>, especially multi-modal representations and their interactions with generative models. [4, 6, 7, 9, 15, 16]</li>
+<li><b>Enhancing biochemistry discovery</b> through generative models and agents. [3, 5, 11, 12] </li>
 </ul>
 <br>
 
@@ -42,15 +42,90 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
         <td>
             <!--右侧内容-->
             <br>
-            <b> 15. <font color="#003D79">Learning Diffusion Models with Flexible Representation Guidance </font></b>
+            <b> 16. <font color="#003D79">Learning Diffusion Models with Flexible Representation Guidance </font></b>
             <br>
             <b>Chenyu Wang</b>*, Cai Zhou*, Sharut Gupta, Zongyu Lin, Stefanie Jegelka, Stephen Bates, Tommi Jaakkola
             <br>
-            Preprint.
+            Advances in Neural Information Processing Systems. <b>NeurIPS 2025</b>.
             <br>
             Also <font color="#c21c0a">Oral</font> at ICML 2025 FM4LS workshop.
             <br>
             <a href="https://arxiv.org/pdf/2507.08980"> [Paper] </a> <a href="https://github.com/ChenyuWang-Monica/REED"> [Code] </a>
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="hdlm.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b> 15. <font color="#003D79">Next Semantic Scale Prediction via Hierarchical Diffusion Language Models</font></b>
+            <br>
+            Cai Zhou*, <b>Chenyu Wang</b>*, Dinghuai Zhang*, Shangyuan Tong, Yifei Wang, Stephen Bates, Tommi Jaakkola
+            <br>
+            Advances in Neural Information Processing Systems. <b>NeurIPS 2025</b>.
+            <br>
+            <!-- <a href=""> [Paper] </a> <a href=""> [Code] </a> -->
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="glide.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b>14. <font color="#003D79">GLID$^2$E: A Gradient-Free Lightweight Fine-tune Approach for Discrete Sequence Design </font></b>
+            <br>
+            Hanqun Cao*, Haosen Shi*, <b>Chenyu Wang</b>, Sinno Jialin Pan, Pheng-Ann Heng
+            <br>
+            Advances in Neural Information Processing Systems. <b>NeurIPS 2025</b>.
+            <br>
+            <a href="https://openreview.net/pdf?id=29YgYt69Kl"> [Paper] </a>
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="svdd.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b>13. <font color="#003D79">Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding</font> </b>
+            <br>
+            Xiner Li, Yulai Zhao, <b>Chenyu Wang</b>, Gabriele Scalia, Gokcen Eraslan, Surag Nair, Tommaso Biancalani, Aviv Regev, Sergey Levine, Masatoshi Uehara
+            <br>
+            Advances in Neural Information Processing Systems. <b>NeurIPS 2025</b>.
+            <br>
+            <a href="https://arxiv.org/abs/2408.08252"> [Paper] </a> <a href="https://github.com/masa-ue/SVDD"> [Code] </a>
+            <!-- <a href="protein_design.pdf"> [Paper] </a> -->
         </td>
     </tr>
 </table>
@@ -68,7 +143,7 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
         <td>
             <!--右侧内容-->
             <br>
-            <b>14. <font color="#003D79">SpatialAgent: An Autonomous AI Agent for Spatial Biology </font></b>
+            <b>12. <font color="#003D79">SpatialAgent: An Autonomous AI Agent for Spatial Biology </font></b>
             <br>
             Hanchen Wang*#, Yichun He*, Paula P Coelho*, Matthew Bucci*, ..., <b>Chenyu Wang</b>, ..., Aviv Regev#
             <br>
@@ -92,7 +167,7 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
         <td>
             <!--右侧内容-->
             <br>
-            <b>13. <font color="#003D79">CellFlux: Simulating Cellular Morphology Changes via Flow Matching </font></b>
+            <b>11. <font color="#003D79">CellFlux: Simulating Cellular Morphology Changes via Flow Matching </font></b>
             <br>
             Yuhui Zhang*, Yuchang Su*, <b>Chenyu Wang</b>, Tianhong Li, Zoe Wefers, Jeffrey Nirschl, James Burgess, Daisy Ding, Alejandro Lozano, Emma Lundberg, Serena Yeung-Levy
             <br>
@@ -116,7 +191,7 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
         <td>
             <!--右侧内容-->
             <br>
-            <b>12. <font color="#003D79">Inference-time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review</font> </b>
+            <b>10. <font color="#003D79">Inference-time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review</font> </b>
             <br>
             Masatoshi Uehara, Yulai Zhao, <b>Chenyu Wang</b>, Xiner Li, Aviv Regev, Sergey Levine, Tommaso Biancalani
             <br>
@@ -130,29 +205,6 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
 <br>
 <br>
 
-<table frame=void rules=none>
-    <tr>
-        <td width="33%">
-            <!--左侧内容-->
-            <br>
-            <img src="glide.png">
-        </td>
-        <td>
-            <!--右侧内容-->
-            <br>
-            <b>11. <font color="#003D79">GLID$^2$E: A Gradient-Free Lightweight Fine-tune Approach for Discrete Sequence Design </font></b>
-            <br>
-            Hanqun Cao*, Haosen Shi*, <b>Chenyu Wang</b>, Sinno Jialin Pan, Pheng-Ann Heng
-            <br>
-            ICLR 2025 GenBio Workshop.
-            <br>
-            <a href="https://openreview.net/pdf?id=29YgYt69Kl"> [Paper] </a>
-        </td>
-    </tr>
-</table>
-
-<br>
-<br>
 
 <table frame=void rules=none>
     <tr>
@@ -164,7 +216,7 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
         <td>
             <!--右侧内容-->
             <br>
-            <b>10. <font color="#003D79">Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation </font></b>
+            <b>9. <font color="#003D79">Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation </font></b>
             <br>
             Yuhui Zhang*, Yuchang Su*, Yiming Liu, Xiaohan Wang, James Burgess, Elaine Sui, <b>Chenyu Wang</b>, Josiah Aklilu, Alejandro Lozano, Anjiang Wei, Ludwig Schmidt, Serena Yeung-Levy
             <br>
@@ -189,7 +241,7 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
         <td>
             <!--右侧内容-->
             <br>
-            <b>9. <font color="#003D79">Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design </font></b>
+            <b>8. <font color="#003D79">Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design </font></b>
             <br>
             <b>Chenyu Wang</b>*, Masatoshi Uehara*, Yichun He, Amy Wang, Tommaso Biancalani, Avantika Lal, Tommi Jaakkola, Sergey Levine, Hanchen Wang, Aviv Regev
             <br>
@@ -215,7 +267,7 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
         <td>
             <!--右侧内容-->
             <br>
-            <b>8. <font color="#003D79">An Information Criterion for Controlled Disentanglement of Multimodal Data</font> </b>
+            <b>7. <font color="#003D79">An Information Criterion for Controlled Disentanglement of Multimodal Data</font> </b>
             <br>
             <b>Chenyu Wang</b>*, Sharut Gupta*, Xinyi Zhang, Sana Tonekaboni, Stefanie Jegelka, Tommi Jaakkola, Caroline Uhler
             <br>
@@ -235,31 +287,6 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
 <br>
 <br>
 
-
-<table frame=void rules=none>
-    <tr>
-        <td width="33%">
-            <!--左侧内容-->
-            <br>
-            <img src="svdd.png">
-        </td>
-        <td>
-            <!--右侧内容-->
-            <br>
-            <b>7. <font color="#003D79">Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding</font> </b>
-            <br>
-            Xiner Li, Yulai Zhao, <b>Chenyu Wang</b>, Gabriele Scalia, Gokcen Eraslan, Surag Nair, Tommaso Biancalani, Aviv Regev, Sergey Levine, Masatoshi Uehara
-            <br>
-            Preprint.
-            <br>
-            <a href="https://arxiv.org/abs/2408.08252"> [Paper] </a> <a href="https://github.com/masa-ue/SVDD"> [Code] </a>
-            <!-- <a href="protein_design.pdf"> [Paper] </a> -->
-        </td>
-    </tr>
-</table>
-
-<br>
-<br>
 
 
 <table frame=void rules=none>
