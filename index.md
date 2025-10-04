@@ -32,6 +32,146 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
 <br>
 (* Equal Contribution)
 
+<div class="tab-container">
+    <div class="tab-buttons">
+        <button class="tab-button active" onclick="showTab('selected')">Selected Publications</button>
+        <button class="tab-button" onclick="showTab('all')">All Publications</button>
+    </div>
+    
+    <div id="selected-publications" class="tab-content active">
+        <!-- Selected Publications: Most recent and impactful ones -->
+        <table frame=void rules=none>
+            <tr>
+                <td width="33%">
+                    <br>
+                    <img src="reed.png">
+                </td>
+                <td>
+                    <br>
+                    <b> 16. <font color="#003D79">Learning Diffusion Models with Flexible Representation Guidance </font></b>
+                    <br>
+                    <b>Chenyu Wang</b>*, Cai Zhou*, Sharut Gupta, Zongyu Lin, Stefanie Jegelka, Stephen Bates, Tommi Jaakkola
+                    <br>
+                    Advances in Neural Information Processing Systems. <b>NeurIPS 2025</b>.
+                    <br>
+                    Also <font color="#c21c0a">Oral</font> at ICML 2025 FM4LS workshop.
+                    <br>
+                    <a href="https://arxiv.org/pdf/2507.08980"> [Paper] </a> <a href="https://github.com/ChenyuWang-Monica/REED"> [Code] </a>
+                </td>
+            </tr>
+        </table>
+
+        <br><br>
+
+        <table frame=void rules=none>
+            <tr>
+                <td width="33%">
+                    <br>
+                    <img src="hdlm.png">
+                </td>
+                <td>
+                    <br>
+                    <b> 15. <font color="#003D79">Next Semantic Scale Prediction via Hierarchical Diffusion Language Models</font></b>
+                    <br>
+                    Cai Zhou*, <b>Chenyu Wang</b>*, Dinghuai Zhang*, Shangyuan Tong, Yifei Wang, Stephen Bates, Tommi Jaakkola
+                    <br>
+                    Advances in Neural Information Processing Systems. <b>NeurIPS 2025</b>.
+                    <br>
+                </td>
+            </tr>
+        </table>
+
+        <br><br>
+
+        <table frame=void rules=none>
+            <tr>
+                <td width="33%">
+                    <br>
+                    <img src="drakes.png">
+                </td>
+                <td>
+                    <br>
+                    <b>8. <font color="#003D79">Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design </font></b>
+                    <br>
+                    <b>Chenyu Wang</b>*, Masatoshi Uehara*, Yichun He, Amy Wang, Tommaso Biancalani, Avantika Lal, Tommi Jaakkola, Sergey Levine, Hanchen Wang, Aviv Regev
+                    <br>
+                    International Conference on Learning Representations. <b>ICLR 2025</b>.
+                    <br>
+                    <a href="https://arxiv.org/abs/2410.13643"> [Paper] </a><a href="https://github.com/ChenyuWang-Monica/DRAKES"> [Code] </a>
+                </td>
+            </tr>
+        </table>
+
+        <br><br>
+
+        <table frame=void rules=none>
+            <tr>
+                <td width="33%">
+                    <br>
+                    <img src="disentangledssl.png">
+                </td>
+                <td>
+                    <br>
+                    <b>7. <font color="#003D79">An Information Criterion for Controlled Disentanglement of Multimodal Data</font> </b>
+                    <br>
+                    <b>Chenyu Wang</b>*, Sharut Gupta*, Xinyi Zhang, Sana Tonekaboni, Stefanie Jegelka, Tommi Jaakkola, Caroline Uhler
+                    <br>
+                    International Conference on Learning Representations. <b>ICLR 2025</b>.
+                    <br>
+                    Also <font color="#c21c0a">Oral</font> and <b><font color="#c21c0a">Honorable Mention Award</font></b> at NeurIPS 2024 UniReps workshop.
+                    <br>
+                    <a href="http://arxiv.org/abs/2410.23996"> [Paper] </a><a href="https://github.com/uhlerlab/DisentangledSSL"> [Code] </a>
+                </td>
+            </tr>
+        </table>
+
+        <br><br>
+
+        <table frame=void rules=none>
+            <tr>
+                <td width="33%">
+                    <br>
+                    <img src="contextssl.png">
+                </td>
+                <td>
+                    <br>
+                    <b>6. <font color="#003D79">In-Context Symmetries: Self-Supervised Learning through Contextual World Models </font></b>
+                    <br>
+                    Sharut Gupta*, <b>Chenyu Wang</b>*, Yifei Wang*, Tommi Jaakkola, Stefanie Jegelka, 
+                    <br>
+                    Advances in Neural Information Processing Systems. <b>NeurIPS 2024</b>.
+                    <br>
+                    Also <font color="#c21c0a">Oral</font> at NeurIPS 2024 SSL workshop.
+                    <br>
+                    <a href="https://arxiv.org/abs/2405.18193"> [Paper] </a><a href="https://github.com/Sharut/In-Context-Symmetries"> [Code] </a> <a href="https://www.csail.mit.edu/news/machines-self-adapt-new-tasks-without-re-training"> [MIT CSAIL News]</a>
+                </td>
+            </tr>
+        </table>
+
+        <br><br>
+
+        <table frame=void rules=none>
+            <tr>
+                <td width="33%">
+                    <br>
+                    <img src="infocore.png">
+                </td>
+                <td>
+                    <br>
+                    <b>4. <font color="#003D79">Removing Biases from Molecular Representations via Information Maximization </font></b>
+                    <br>
+                    <b>Chenyu Wang</b>, Sharut Gupta, Caroline Uhler, Tommi Jaakkola
+                    <br>
+                    International Conference on Learning Representations. <b>ICLR 2024</b>.
+                    <br>
+                    <a href="https://arxiv.org/abs/2312.00718"> [Paper] </a> <a href="https://github.com/uhlerlab/InfoCORE"> [Code] </a>
+                </td>
+            </tr>
+        </table>
+    </div>
+    
+    <div id="all-publications" class="tab-content">
+
 <table frame=void rules=none>
     <tr>
         <td width="33%">
@@ -58,7 +198,6 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
 <br>
 <br>
 
-
 <table frame=void rules=none>
     <tr>
         <td width="33%">
@@ -82,7 +221,6 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
 
 <br>
 <br>
-
 
 <table frame=void rules=none>
     <tr>
@@ -205,7 +343,6 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
 <br>
 <br>
 
-
 <table frame=void rules=none>
     <tr>
         <td width="33%">
@@ -256,7 +393,6 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
 <br>
 <br>
 
-
 <table frame=void rules=none>
     <tr>
         <td width="33%">
@@ -287,8 +423,6 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
 <br>
 <br>
 
-
-
 <table frame=void rules=none>
     <tr>
         <td width="33%">
@@ -318,8 +452,6 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
 <br>
 <br>
 
-
-
 <table frame=void rules=none>
     <tr>
         <td width="33%">
@@ -345,7 +477,6 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
 
 <br>
 <br>
-
 
 <table frame=void rules=none>
     <tr>
@@ -377,20 +508,20 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
 <table frame=void rules=none>
     <tr>
         <td width="33%">
-            <!--左侧内容-->
-            <br>
-            <img src="1.jpg">
+        <!--左侧内容-->
+        <br>
+        <img src="1.jpg">
         </td>
         <td>
-            <!--右侧内容-->
-            <br>
-            <b>3. <font color="#003D79">Tree-Based Neural Bandits for High-Value Protein Design </font></b>
-            <br>
-            <b>Chenyu Wang</b>*, Joseph Kim*, Le Cong, Mengdi Wang
-            <br>
-            56th Annual Conference on Information Sciences and Systems. <b>CISS 2022</b>.
-            <br>
-            <a href="protein_design.pdf"> [Paper] </a>
+        <!--右侧内容-->
+        <br>
+        <b>3. <font color="#003D79">Tree-Based Neural Bandits for High-Value Protein Design </font></b>
+        <br>
+        <b>Chenyu Wang</b>*, Joseph Kim*, Le Cong, Mengdi Wang
+        <br>
+        56th Annual Conference on Information Sciences and Systems. <b>CISS 2022</b>.
+        <br>
+        <a href="protein_design.pdf"> [Paper] </a>
         </td>
     </tr>
 </table>
@@ -403,20 +534,20 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
 <!-- <table style="margin-left: auto; margin-right: auto;" frame=void rules=none> -->
     <tr>
         <td width="33%">
-            <!--左侧内容-->
-            <br>
-            <img src="2.jpg">
+        <!--左侧内容-->
+        <br>
+        <img src="2.jpg">
         </td>
         <td>
-            <!--右侧内容-->
-            <br>
-            <b>2. <font color="#003D79">HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting </font></b>
-            <br>
-            <b>Chenyu Wang</b>*, Zongyu Lin*, Xiaochen Yang, Mingxuan Yue, Jiao Sun, Cyrus Shahabi
-            <br>
-            AAAI Conference on Artificial Intelligence. <b>AAAI 2022</b>. <b><font color="#c21c0a">(Oral Presentation)</font></b>
-            <br>
-            <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20338"> [Paper] </a> <a href="https://github.com/Rafa-zy/HAGEN"> [Code] </a> <a href="https://www.youtube.com/watch?v=IyBV33tEx0E"> [Talk at TGL] </a>
+        <!--右侧内容-->
+        <br>
+        <b>2. <font color="#003D79">HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting </font></b>
+        <br>
+        <b>Chenyu Wang</b>*, Zongyu Lin*, Xiaochen Yang, Mingxuan Yue, Jiao Sun, Cyrus Shahabi
+        <br>
+        AAAI Conference on Artificial Intelligence. <b>AAAI 2022</b>. <b><font color="#c21c0a">(Oral Presentation)</font></b>
+        <br>
+        <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20338"> [Paper] </a> <a href="https://github.com/Rafa-zy/HAGEN"> [Code] </a> <a href="https://www.youtube.com/watch?v=IyBV33tEx0E"> [Talk at TGL] </a>
         </td>
     </tr>
 </table>
@@ -429,24 +560,26 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
 <table frame=void rules=none>
     <tr>
         <td width="33%">
-            <br>
-            <img src="3.jpg">
+        <br>
+        <img src="3.jpg">
         </td>
         <td>
-            <br>
-            <b> 1. <font color="#003D79">Open Domain Generalization with Domain-Augmented Meta-Learning</font> </b>
-            <br>
-            Yang Shu*, Zhangjie Cao*, <b>Chenyu Wang</b>, Jianmin Wang, Mingsheng Long
-            <br>
-            IEEE Conference on Computer Vision and Pattern Recognition. <b>CVPR 2021</b>.
-            <br>
-            <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Shu_Open_Domain_Generalization_with_Domain-Augmented_Meta-Learning_CVPR_2021_paper.pdf"> [Paper] </a> <a href="https://github.com/thuml/OpenDG-DAML"> [Code] </a>
+        <br>
+        <b> 1. <font color="#003D79">Open Domain Generalization with Domain-Augmented Meta-Learning</font> </b>
+        <br>
+        Yang Shu*, Zhangjie Cao*, <b>Chenyu Wang</b>, Jianmin Wang, Mingsheng Long
+        <br>
+        IEEE Conference on Computer Vision and Pattern Recognition. <b>CVPR 2021</b>.
+        <br>
+        <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Shu_Open_Domain_Generalization_with_Domain-Augmented_Meta-Learning_CVPR_2021_paper.pdf"> [Paper] </a> <a href="https://github.com/thuml/OpenDG-DAML"> [Code] </a>
         </td>
     </tr>
 </table>
 <!-- We propose a novel Domain-Augmented Meta-Learning framework (DAML) to address the new open domain generalization problem, which conducts meta-learning over domains augmented at both feature-level and label-level. -->
 <br>
 <br>
+    </div>
+</div>
 
 <h2><div id="education">Education and Research Experience</div></h2>
 <table frame=void rules=none>
@@ -610,3 +743,68 @@ Reviewer: ICLR 2025/2026, NeurIPS 2024/2025, ICML 2025, PLOS Computational Biolo
 <h2><div id="other">Miscellaneous</div></h2>
 I enjoy (and perhaps good at) doing sports. During undergrad, I was an active member in the track team and soccer team in my school, getting 1st place in 4\*400m relay, 3rd place in 1500m, women's soccer champion etc. I'm also a fan of literature and classical music. I enjoy travelling and tasting local delicacies. 
 <br>
+
+<style>
+.tab-container {
+    margin: 20px 0;
+}
+
+.tab-buttons {
+    display: flex;
+    border-bottom: 2px solid #e0e0e0;
+    margin-bottom: 20px;
+}
+
+.tab-button {
+    background: none;
+    border: none;
+    padding: 12px 24px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    color: #666;
+    border-bottom: 3px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.tab-button:hover {
+    color: #003D79;
+    background-color: #f8f9fa;
+}
+
+.tab-button.active {
+    color: #003D79;
+    border-bottom-color: #003D79;
+    background-color: #f8f9fa;
+}
+
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+}
+</style>
+
+<script>
+function showTab(tabName) {
+    // Hide all tab contents
+    const allContents = document.querySelectorAll('.tab-content');
+    allContents.forEach(content => {
+        content.classList.remove('active');
+    });
+    
+    // Remove active class from all buttons
+    const allButtons = document.querySelectorAll('.tab-button');
+    allButtons.forEach(button => {
+        button.classList.remove('active');
+    });
+    
+    // Show selected tab content
+    document.getElementById(tabName + '-publications').classList.add('active');
+    
+    // Add active class to clicked button
+    event.target.classList.add('active');
+}
+</script>
