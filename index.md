@@ -169,6 +169,51 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
             </tr>
         </table>
     </div>
+    <br><br>
+
+
+        <table frame=void rules=none>
+            <tr>
+                <td width="33%">
+                <!--左侧内容-->
+                <br>
+                <img src="1.jpg">
+                </td>
+                <td>
+                <!--右侧内容-->
+                <br>
+                <b>3. <font color="#003D79">Tree-Based Neural Bandits for High-Value Protein Design </font></b>
+                <br>
+                <b>Chenyu Wang</b>*, Joseph Kim*, Le Cong, Mengdi Wang
+                <br>
+                56th Annual Conference on Information Sciences and Systems. <b>CISS 2022</b>.
+                <br>
+                <a href="protein_design.pdf"> [Paper] </a>
+                </td>
+            </tr>
+        </table>
+    <br><br>
+
+        <table frame=void rules=none>
+        <!-- <table style="margin-left: auto; margin-right: auto;" frame=void rules=none> -->
+            <tr>
+                <td width="33%">
+                <br>
+                <img src="2.jpg">
+                </td>
+                <td>
+                <br>
+                <b>2. <font color="#003D79">HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting </font></b>
+                <br>
+                <b>Chenyu Wang</b>*, Zongyu Lin*, Xiaochen Yang, Mingxuan Yue, Jiao Sun, Cyrus Shahabi
+                <br>
+                AAAI Conference on Artificial Intelligence. <b>AAAI 2022</b>. <b><font color="#c21c0a">(Oral Presentation)</font></b>
+                <br>
+                <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20338"> [Paper] </a> <a href="https://github.com/Rafa-zy/HAGEN"> [Code] </a> <a href="https://www.youtube.com/watch?v=IyBV33tEx0E"> [Talk at TGL] </a>
+                </td>
+            </tr>
+        </table>
+    <br><br>
     
     <div id="all-publications" class="tab-content">
 
