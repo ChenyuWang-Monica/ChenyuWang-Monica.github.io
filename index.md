@@ -168,7 +168,6 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
                 </td>
             </tr>
         </table>
-    </div>
     <br><br>
 
 
@@ -214,7 +213,8 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
             </tr>
         </table>
     <br><br>
-    
+    </div>
+
     <div id="all-publications" class="tab-content">
 
 <table frame=void rules=none>
