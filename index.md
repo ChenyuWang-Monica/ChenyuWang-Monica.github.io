@@ -4,8 +4,8 @@ layout: homepage
 
 <h2><div id="about">About Me</div></h2>
 
-I am a fourth-year PhD student at [MIT CSAIL](https://www.csail.mit.edu/), advised by [Tommi Jaakkola](https://people.csail.mit.edu/tommi/). 
-My research interests lie broadly in deep generative models, reinforcement learning, multi-modal learning, and AI for science. During my PhD, I was an research intern at [Meta FAIR](https://ai.meta.com/) and [Genentech](https://www.gene.com/). My research has been supported by the [Citadel GQS PhD Fellowship](https://www.citadel.com/careers/programs-and-events/gqs-phd-fellowship/).
+I am a fourth-year PhD candidate at [MIT CSAIL](https://www.csail.mit.edu/), advised by Prof. [Tommi Jaakkola](https://people.csail.mit.edu/tommi/). 
+My research interests lie broadly in deep generative models, reinforcement learning, multi-modal learning, and AI for science. During my PhD, I was an research intern at [Meta FAIR](https://ai.meta.com/) (working with <a href="https://yuandong-tian.com/">Yuandong Tian</a> and <a href="https://cranial-xix.github.io">Bo Liu</a>) and [Genentech](https://www.gene.com/) (working with <a href="https://www.gene.com/scientists/our-scientists/aviv-regev">Aviv Regev</a>, <a href="https://www.hanchenw.com/">Hanchen Wang</a>, and <a href="https://www.masatoshiuehara.com/">Masatoshi Uehara</a>). My research has been supported by the [Citadel GQS PhD Fellowship](https://www.citadel.com/careers/programs-and-events/gqs-phd-fellowship/).
 
 Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), working as a research assistant in Tsinghua Universal Machine Learning (THUML) Group under the supervision of [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). I was also fortunate to work as a research intern with [Mengdi Wang](https://mwang.princeton.edu/) at Princeton University and with [Cyrus Shahabi](https://viterbi.usc.edu/directory/faculty/Shahabi/Cyrus) at University of Southern California.
 
@@ -13,7 +13,7 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
 
 [Google Scholar](https://scholar.google.com/citations?user=Kq0dhLAAAAAJ&hl) / [LinkedIn](https://www.linkedin.com/in/chenyu-wang-3a6a9a193/) / [Twitter](https://twitter.com/ChenyuW64562111)
 
-[Resume](resume_ChenyuWang_Aug2025.pdf) (Updated in Aug 2025)
+[Resume](resume_ChenyuWang_Oct2025.pdf) (Updated in Oct 2025)
 <!-- [Resume](resume_ChenyuWang.pdf) (Updated in Nov 2023) -->
 <br>
 
@@ -21,9 +21,9 @@ Before my PhD, I obtained my Bachelor's degree from [Tsinghua University](https:
 My research focuses on developing controllable and efficient generative models, via reinforcement learning, multi-modal learning, and representation learning. I work across various application domains, including language models, vision, and scientific data (e.g. biochemistry). My recent work explores:
 
 <ul>
-<li><b>Reinforcement learning, reasoning, and inference-time alignment</b> for deep generative models and language models. [8, 10, 13, 14] </li>
-<li><b>Multi-modal learning</b>, especially multi-modal representations and their interactions with generative models. [4, 6, 7, 9, 15, 16]</li>
-<li><b>Enhancing biochemistry discovery</b> through generative models and agents. [3, 5, 11, 12] </li>
+<li><b>Reinforcement learning, reasoning, and inference-time alignment</b> for deep generative models and language models. [8, 10, 13, 14, 18, 21] </li>
+<li><b>Multi-modal learning</b>, especially multi-modal representations and their interactions with generative models. [4, 6, 7, 9, 15, 16, 19, 20]</li>
+<li><b>Enhancing biochemistry discovery</b> through generative models and agents. [3, 5, 11, 12, 17] </li>
 </ul>
 <br>
 
@@ -40,6 +40,27 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
     
     <div id="selected-publications" class="tab-content active">
         <!-- Selected Publications: Most recent and impactful ones -->
+        <table frame=void rules=none>
+            <tr>
+                <td width="33%">
+                    <!--左侧内容-->
+                    <br>
+                    <img src="spg.png">
+                </td>
+                <td>
+                    <!--右侧内容-->
+                    <br>
+                    <b> 21. <font color="#003D79">SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models. </font></b>
+                    <br>
+                    <b>Chenyu Wang</b>, Paria Rashidinejad, DiJia Su, Song Jiang, Sid Wang, Siyan Zhao, Cai Zhou, Shannon Zejiang Shen, Feiyu Chen, Tommi Jaakkola, Yuandong Tian, Bo Liu. 
+                    <br>
+                    Preprint.
+                    <br>
+                    <a href="https://arxiv.org/pdf/2510.09541"> [Paper] </a> <a href="https://github.com/facebookresearch/SPG"> [Code] </a> <a href="https://chenyuwang-monica.github.io/spg/"> [Project Webpage] </a>
+                </td>
+            </tr>
+        </table>
+         <br><br>
         <table frame=void rules=none>
             <tr>
                 <td width="33%">
@@ -216,6 +237,111 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
     </div>
 
     <div id="all-publications" class="tab-content">
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="spg.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b> 21. <font color="#003D79">SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models. </font></b>
+            <br>
+            <b>Chenyu Wang</b>, Paria Rashidinejad, DiJia Su, Song Jiang, Sid Wang, Siyan Zhao, Cai Zhou, Shannon Zejiang Shen, Feiyu Chen, Tommi Jaakkola, Yuandong Tian, Bo Liu. 
+            <br>
+            Preprint.
+            <br>
+            <a href="https://arxiv.org/pdf/2510.09541"> [Paper] </a> <a href="https://github.com/facebookresearch/SPG"> [Code] </a> <a href="https://chenyuwang-monica.github.io/spg/"> [Project Webpage] </a>
+        </td>
+    </tr>
+</table>
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="uml.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b> 20. <font color="#003D79">Better Together: Leveraging Unpaired Multimodal Data for Stronger Unimodal Models. </font></b>
+            <br>
+            Sharut Gupta, Shobhita Sundaram, <b>Chenyu Wang</b>, Stefanie Jegelka, Phillip Isola. 
+            <br>
+            Preprint.
+            <br>
+            <a href="https://arxiv.org/pdf/2510.08492"> [Paper] </a> <a href="https://github.com/Sharut/Unpaired-Multimodal-Learning/"> [Code] </a> <a href="https://unpaired-multimodal.github.io/"> [Project Webpage] </a>
+        </td>
+    </tr>
+</table>
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="ccdd.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b> 19. <font color="#003D79">Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner. </font></b>
+            <br>
+            Cai Zhou, Chenxiao Yang, Yi Hu, <b>Chenyu Wang</b>, Chubin Zhang, Muhan Zhang, Lester Mackey, Tommi Jaakkola, Stephen Bates, Dinghuai Zhang. 
+            <br>
+            Preprint.
+            <br>
+            <a href="https://arxiv.org/pdf/2510.03206"> [Paper] </a>
+        </td>
+    </tr>
+</table>
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="igpo.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b> 18. <font color="#003D79">Inpainting-Guided Policy Optimization for Diffusion Large Language Models. </font></b>
+            <br>
+            Siyan Zhao, Mengchen Liu, Jing Huang, Miao Liu, <b>Chenyu Wang</b>, Bo Liu, Yuandong Tian, Guan Pang, Sean Bell, Aditya Grover, Feiyu Chen.
+            <br>
+            Preprint.
+            <br>
+            <a href="https://arxiv.org/pdf/2509.10396"> [Paper] </a>
+        </td>
+    </tr>
+</table>
+
+<table frame=void rules=none>
+    <tr>
+        <td width="33%">
+            <!--左侧内容-->
+            <br>
+            <img src="plame.png">
+        </td>
+        <td>
+            <!--右侧内容-->
+            <br>
+            <b> 17. <font color="#003D79">Lightweight MSA Design Advances Protein Folding From Evolutionary Embeddings. </font></b>
+            <br>
+            Hanqun Cao*, Xinyi Zhou*, Zijun Gao*, <b>Chenyu Wang</b>, Xin Gao, Zhi Zhang, Chunbin Gu, Ge Liu, Pheng-Ann Heng.
+            <br>
+            Preprint.
+            <br>
+            <a href="https://arxiv.org/pdf/2507.07032"> [Paper] </a>
+        </td>
+    </tr>
+</table>
+
 
 <table frame=void rules=none>
     <tr>
@@ -235,7 +361,7 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
             <br>
             Also <font color="#c21c0a">Oral</font> at ICML 2025 FM4LS workshop.
             <br>
-            <a href="https://arxiv.org/pdf/2507.08980"> [Paper] </a> <a href="https://github.com/ChenyuWang-Monica/REED"> [Code] </a>
+            <a href="https://arxiv.org/pdf/2507.08980"> [Paper] </a> <a href="https://github.com/ChenyuWang-Monica/REED"> [Code] </a> <a href="https://chenyuwang-monica.github.io/REED/"> [Project Webpage] </a>
         </td>
     </tr>
 </table>
@@ -259,7 +385,7 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
             <br>
             Advances in Neural Information Processing Systems. <b>NeurIPS 2025</b>.
             <br>
-            <!-- <a href=""> [Paper] </a> <a href=""> [Code] </a> -->
+            <a href="https://arxiv.org/pdf/2510.08632"> [Paper] </a> <a href="https://github.com/zhouc20/HDLM"> [Code] </a>
         </td>
     </tr>
 </table>
@@ -656,7 +782,7 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
             <br>
             <b> Meta FAIR</b>
             <br>
-            2024.05-2024.08
+            2025.05-2025.08
             <br>
             Research intern
             <br>
