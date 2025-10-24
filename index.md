@@ -77,7 +77,7 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
                     <br>
                     Also <font color="#c21c0a">Oral</font> at ICML 2025 FM4LS workshop.
                     <br>
-                    <a href="https://arxiv.org/pdf/2507.08980"> [Paper] </a> <a href="https://github.com/ChenyuWang-Monica/REED"> [Code] </a>
+                    <a href="https://arxiv.org/pdf/2507.08980"> [Paper] </a> <a href="https://github.com/ChenyuWang-Monica/REED"> [Code] </a> <a href="https://chenyuwang-monica.github.io/REED/"> [Project Webpage] </a>
                 </td>
             </tr>
         </table>
@@ -98,6 +98,7 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
                     <br>
                     Advances in Neural Information Processing Systems. <b>NeurIPS 2025</b>.
                     <br>
+                    <a href="https://arxiv.org/pdf/2510.08632"> [Paper] </a> <a href="https://github.com/zhouc20/HDLM"> [Code] </a>
                 </td>
             </tr>
         </table>
