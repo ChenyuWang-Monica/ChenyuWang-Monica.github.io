@@ -80,6 +80,8 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
         </td>
     </tr>
 </table>
+<br>
+<br>
 
 <table frame=void rules=none>
     <tr>
@@ -101,6 +103,8 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
         </td>
     </tr>
 </table>
+<br>
+<br>
 
 <table frame=void rules=none>
     <tr>
@@ -122,6 +126,8 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
         </td>
     </tr>
 </table>
+<br>
+<br>
 
 <table frame=void rules=none>
     <tr>
@@ -143,7 +149,8 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
         </td>
     </tr>
 </table>
-
+<br>
+<br>
 
 <table frame=void rules=none>
     <tr>
@@ -437,7 +444,7 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
             <br>
             <b>5. <font color="#003D79">Dirichlet Flow Matching with Applications to DNA Sequence Design</font> </b>
             <br>
-            Hannes Stark*, Bowen Jing*, Chenyu Wang, Gabriele Corso, Bonnie Berger, Regina Barzilay, Tommi Jaakkola, 
+            Hannes Stark*, Bowen Jing*, <b>Chenyu Wang</b>, Gabriele Corso, Bonnie Berger, Regina Barzilay, Tommi Jaakkola, 
             <br>
             International Conference on Machine Learning. <b>ICML 2024</b>.
             <br>
