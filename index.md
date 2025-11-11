@@ -761,6 +761,7 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
         </table>
     <br><br>
     </div>
+</div>
 
 <h2><div id="education">Education and Research Experience</div></h2>
 <table frame=void rules=none>
