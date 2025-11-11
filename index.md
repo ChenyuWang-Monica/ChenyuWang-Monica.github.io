@@ -59,6 +59,8 @@ Full publication list can be found on <a href="https://scholar.google.com/citati
         </td>
     </tr>
 </table>
+<br>
+<br>
 
 <table frame=void rules=none>
     <tr>
